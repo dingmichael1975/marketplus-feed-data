@@ -1,5 +1,38 @@
 {
- "generated_at": "2026-07-03T11:39:05+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-07-03T14:27:23+00:00",
+ "count": 2,
+ "markets": [
+  {
+   "id": "2707858",
+   "question": "Spread: Argentina (-1.5)",
+   "slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+   "url": "https://polymarket.com/event/fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+   "yes_price": 0.665,
+   "volume_24h": 737931.8642139996,
+   "volume": 1182077.2285999986,
+   "end_date": "2026-07-03T22:00:00Z",
+   "lat": -38.4161,
+   "lng": -63.6167,
+   "region": "Argentina",
+   "category": "",
+   "yes_price_6h_ago": 0.655,
+   "delta_6h": 0.01
+  },
+  {
+   "id": "2754869",
+   "question": "Brazil vs. Norway: Team to Advance",
+   "slug": "fifwc-bra-nor-2026-07-05-team-to-advance",
+   "url": "https://polymarket.com/event/fifwc-bra-nor-2026-07-05-team-to-advance",
+   "yes_price": 0.665,
+   "volume_24h": 221224.80594799976,
+   "volume": 294598.9264539992,
+   "end_date": "2026-07-05T20:00:00Z",
+   "lat": -14.235,
+   "lng": -51.9253,
+   "region": "Brazil",
+   "category": "",
+   "yes_price_6h_ago": 0.655,
+   "delta_6h": 0.01
+  }
+ ]
 }
