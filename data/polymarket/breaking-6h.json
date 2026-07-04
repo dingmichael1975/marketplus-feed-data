@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T14:42:19+00:00",
+ "generated_at": "2026-07-04T16:10:55+00:00",
  "count": 3,
  "markets": [
   {
@@ -7,32 +7,32 @@
    "question": "US x Iran diplomatic meeting by July 31, 2026?",
    "slug": "us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
    "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
-   "yes_price": 0.72,
-   "volume_24h": 200721.1511640001,
-   "volume": 553533.3609169993,
+   "yes_price": 0.735,
+   "volume_24h": 200867.60714100016,
+   "volume": 556872.1691029995,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
    "yes_price_6h_ago": 0.605,
-   "delta_6h": 0.115
+   "delta_6h": 0.13
   },
   {
    "id": "2769684",
    "question": "Bitcoin Up or Down on July 4?",
    "slug": "bitcoin-up-or-down-on-july-4-2026",
    "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-4-2026",
-   "yes_price": 0.9965,
-   "volume_24h": 257817.09554999968,
-   "volume": 257845.0416219997,
+   "yes_price": 0.9995,
+   "volume_24h": 281638.52790699963,
+   "volume": 284473.47462099965,
    "end_date": "2026-07-04T16:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
    "category": "",
    "yes_price_6h_ago": 0.915,
-   "delta_6h": 0.0815
+   "delta_6h": 0.0845
   },
   {
    "id": "2176262",
@@ -40,8 +40,8 @@
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "yes_price": 0.205,
-   "volume_24h": 197924.04618000003,
-   "volume": 11874722.143551253,
+   "volume_24h": 197391.44456200005,
+   "volume": 11878591.092954254,
    "end_date": "2026-07-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
