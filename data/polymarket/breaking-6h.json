@@ -1,21 +1,37 @@
 {
- "generated_at": "2026-07-04T10:20:47+00:00",
- "count": 2,
+ "generated_at": "2026-07-04T12:11:56+00:00",
+ "count": 3,
  "markets": [
+  {
+   "id": "2769684",
+   "question": "Bitcoin Up or Down on July 4?",
+   "slug": "bitcoin-up-or-down-on-july-4-2026",
+   "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-4-2026",
+   "yes_price": 0.9685,
+   "volume_24h": 223392.82768399958,
+   "volume": 223413.06297299967,
+   "end_date": "2026-07-04T16:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.925,
+   "delta_6h": 0.0435
+  },
   {
    "id": "2646850",
    "question": "US x Iran diplomatic meeting by July 31, 2026?",
    "slug": "us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
    "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
-   "yes_price": 0.605,
-   "volume_24h": 179253.74999800007,
-   "volume": 528242.3332599994,
+   "yes_price": 0.615,
+   "volume_24h": 181044.33453000005,
+   "volume": 530392.8344569992,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.575,
+   "yes_price_6h_ago": 0.585,
    "delta_6h": 0.03
   },
   {
@@ -23,15 +39,15 @@
    "question": "Strait of Hormuz traffic returns to normal by July 15?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15",
-   "yes_price": 0.055,
-   "volume_24h": 299372.80272099987,
-   "volume": 6471340.850803953,
+   "yes_price": 0.045,
+   "volume_24h": 331420.8177759999,
+   "volume": 6506308.481004953,
    "end_date": "2026-07-15T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
-   "yes_price_6h_ago": 0.065,
+   "yes_price_6h_ago": 0.055,
    "delta_6h": -0.01
   }
  ]
