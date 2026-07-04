@@ -1,5 +1,38 @@
 {
- "generated_at": "2026-07-04T07:53:10+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-07-04T10:20:47+00:00",
+ "count": 2,
+ "markets": [
+  {
+   "id": "2646850",
+   "question": "US x Iran diplomatic meeting by July 31, 2026?",
+   "slug": "us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
+   "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-july-31-2026-20260622191708361",
+   "yes_price": 0.605,
+   "volume_24h": 179253.74999800007,
+   "volume": 528242.3332599994,
+   "end_date": "2026-07-31T23:59:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": "",
+   "yes_price_6h_ago": 0.575,
+   "delta_6h": 0.03
+  },
+  {
+   "id": "2535468",
+   "question": "Strait of Hormuz traffic returns to normal by July 15?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+   "yes_price": 0.055,
+   "volume_24h": 299372.80272099987,
+   "volume": 6471340.850803953,
+   "end_date": "2026-07-15T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.065,
+   "delta_6h": -0.01
+  }
+ ]
 }
