@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-07-05T21:17:35+00:00",
- "count": 14,
+ "generated_at": "2026-07-06T04:36:41+00:00",
+ "count": 15,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 79,
+   "type": "Attack",
+   "severity": "high",
+   "date": "5 July 2026",
+   "region": "Al Hudaydah",
+   "lat": 14.7978,
+   "lng": 42.9545,
+   "body": "UKMTO WARNING 079-26 ATTACK\nReport Date: 05 Jul 2026 Report Time: 0719UTC\nUKMTO has received a report of an incident 30NM southwest of Al Hudaydah, Yemen.\nA cargo vessel has triggered a distress alert stating that they are under attack by unknown armed assailants.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
   {
    "number": 78,
    "type": "Suspicious Activity",
