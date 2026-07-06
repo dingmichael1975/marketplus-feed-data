@@ -1,5 +1,54 @@
 {
- "generated_at": "2026-07-06T09:06:42+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-07-06T13:55:26+00:00",
+ "count": 3,
+ "markets": [
+  {
+   "id": "2795845",
+   "question": "Bitcoin Up or Down on July 6?",
+   "slug": "bitcoin-up-or-down-on-july-6-2026",
+   "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-6-2026",
+   "yes_price": 0.0815,
+   "volume_24h": 179025.83852300007,
+   "volume": 179128.10616700014,
+   "end_date": "2026-07-06T16:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.595,
+   "delta_6h": -0.5135
+  },
+  {
+   "id": "2176270",
+   "question": "Strait of Hormuz traffic returns to normal by December 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "yes_price": 0.675,
+   "volume_24h": 179930.44714700006,
+   "volume": 4050990.8158849906,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.715,
+   "delta_6h": -0.04
+  },
+  {
+   "id": "1654958",
+   "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+   "yes_price": 0.875,
+   "volume_24h": 500261.431222,
+   "volume": 9456658.57938902,
+   "end_date": "2026-07-29T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.895,
+   "delta_6h": -0.02
+  }
+ ]
 }
