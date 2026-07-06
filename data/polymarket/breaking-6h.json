@@ -1,5 +1,54 @@
 {
- "generated_at": "2026-07-06T17:08:36+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-07-06T20:08:46+00:00",
+ "count": 3,
+ "markets": [
+  {
+   "id": "2176270",
+   "question": "Strait of Hormuz traffic returns to normal by December 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "yes_price": 0.615,
+   "volume_24h": 222360.25823399995,
+   "volume": 4104628.1278449898,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.675,
+   "delta_6h": -0.06
+  },
+  {
+   "id": "1654959",
+   "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+   "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+   "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+   "yes_price": 0.1545,
+   "volume_24h": 408747.32118899986,
+   "volume": 10560650.953590108,
+   "end_date": "2026-07-29T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.1125,
+   "delta_6h": 0.042
+  },
+  {
+   "id": "1654958",
+   "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+   "yes_price": 0.845,
+   "volume_24h": 1107236.0840329998,
+   "volume": 10069562.494504027,
+   "end_date": "2026-07-29T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.875,
+   "delta_6h": -0.03
+  }
+ ]
 }
