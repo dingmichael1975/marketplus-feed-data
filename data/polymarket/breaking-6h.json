@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T22:19:55+00:00",
+ "generated_at": "2026-07-07T00:15:44+00:00",
  "count": 2,
  "markets": [
   {
@@ -7,32 +7,32 @@
    "question": "Strait of Hormuz traffic returns to normal by December 31?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "yes_price": 0.625,
-   "volume_24h": 247766.37527799996,
-   "volume": 4138480.03341499,
+   "yes_price": 0.595,
+   "volume_24h": 310872.918939,
+   "volume": 4201909.391584991,
    "end_date": "2026-12-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
    "yes_price_6h_ago": 0.665,
-   "delta_6h": -0.04
+   "delta_6h": -0.07
   },
   {
    "id": "2176262",
    "question": "Strait of Hormuz traffic returns to normal by July 31?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
-   "yes_price": 0.11,
-   "volume_24h": 185354.71598799987,
-   "volume": 12291106.929128252,
+   "yes_price": 0.105,
+   "volume_24h": 232062.58576299986,
+   "volume": 12347741.40769625,
    "end_date": "2026-07-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
    "yes_price_6h_ago": 0.135,
-   "delta_6h": -0.025
+   "delta_6h": -0.03
   }
  ]
 }
