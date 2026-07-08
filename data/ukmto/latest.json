@@ -1,8 +1,38 @@
 {
- "generated_at": "2026-07-08T03:40:55+00:00",
- "count": 15,
+ "generated_at": "2026-07-08T06:37:02+00:00",
+ "count": 18,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 82,
+   "type": "Attack",
+   "severity": "high",
+   "date": "7 July 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO\\_WARNING\\_82-26. UKMTO has received a report of a further incident involving a tanker transiting the Strait of Hormuz.\nThe tanker was struck by an unknown Uncrewed Aerial Vehicle (UAV) and has sustained minor structural damage. No casualties or environmental impact reported, and vessel is continuing to its next port of call.\nUKMTO continues to investigate. Vessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
+  {
+   "number": 81,
+   "type": "Attack",
+   "severity": "high",
+   "date": "6 July 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO\\_WARNING\\_81-26.\nUKMTO has received a report of an incident involving a tanker transiting the Strait of\nHormuz. The tanker was struck by an unidentified projectile and is believed to have\nstructural damage. No casualties or environmental impact reported.\nUKMTO continues to investigate. Vessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
+  {
+   "number": 80,
+   "type": "Attack",
+   "severity": "high",
+   "date": "6 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 080-26 - ATTACK\nReport Date: 06 Jul 2026 Report Time: 2119UTC\nUKMTO has received a report of an incident 8NM east of Limah, Oman.\nA tanker has reported being hit by an unknown projectile on the port side causing a\nfire, whilst travelling southbound.\nNo casualties or environmental impact reported.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to\nUKMTO."
+  },
   {
    "number": 79,
    "type": "Attack",
