@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T22:17:47+00:00",
+ "generated_at": "2026-07-08T00:06:29+00:00",
  "count": 4,
  "markets": [
   {
@@ -7,16 +7,32 @@
    "question": "Will Marine Le Pen win the 2027 French presidential election?",
    "slug": "will-marine-le-pen-win-the-2027-french-presidential-election",
    "url": "https://polymarket.com/event/will-marine-le-pen-win-the-2027-french-presidential-election",
-   "yes_price": 0.2895,
-   "volume_24h": 335794.432696,
-   "volume": 1229678.5155199987,
+   "yes_price": 0.2875,
+   "volume_24h": 337522.666028,
+   "volume": 1231449.758851999,
    "end_date": "2027-04-30T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "US Election",
    "category": "",
-   "yes_price_6h_ago": 0.1005,
-   "delta_6h": 0.189
+   "yes_price_6h_ago": 0.1595,
+   "delta_6h": 0.128
+  },
+  {
+   "id": "2176262",
+   "question": "Strait of Hormuz traffic returns to normal by July 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "yes_price": 0.045,
+   "volume_24h": 705119.4641890002,
+   "volume": 13022471.377445262,
+   "end_date": "2026-07-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.065,
+   "delta_6h": -0.02
   },
   {
    "id": "1654958",
@@ -24,30 +40,14 @@
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
    "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
    "yes_price": 0.815,
-   "volume_24h": 628351.6997860004,
-   "volume": 10706093.10192403,
+   "volume_24h": 618484.0197220006,
+   "volume": 10708400.064791037,
    "end_date": "2026-07-29T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "Federal Reserve",
    "category": "",
-   "yes_price_6h_ago": 0.845,
-   "delta_6h": -0.03
-  },
-  {
-   "id": "2176262",
-   "question": "Strait of Hormuz traffic returns to normal by July 31?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
-   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
-   "yes_price": 0.055,
-   "volume_24h": 693092.7047560003,
-   "volume": 12984199.633884255,
-   "end_date": "2026-07-31T00:00:00Z",
-   "lat": 26.5667,
-   "lng": 56.25,
-   "region": "Strait of Hormuz",
-   "category": "",
-   "yes_price_6h_ago": 0.075,
+   "yes_price_6h_ago": 0.835,
    "delta_6h": -0.02
   },
   {
@@ -55,16 +55,16 @@
    "question": "Strait of Hormuz traffic returns to normal by December 31?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "yes_price": 0.61,
-   "volume_24h": 241109.54551600007,
-   "volume": 4379589.578930989,
+   "yes_price": 0.615,
+   "volume_24h": 179171.95734600004,
+   "volume": 4381081.348930988,
    "end_date": "2026-12-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
    "yes_price_6h_ago": 0.625,
-   "delta_6h": -0.015
+   "delta_6h": -0.01
   }
  ]
 }
