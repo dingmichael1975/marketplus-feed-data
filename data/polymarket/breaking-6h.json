@@ -1,38 +1,5 @@
 {
- "generated_at": "2026-07-10T11:13:38+00:00",
- "count": 2,
- "markets": [
-  {
-   "id": "1654958",
-   "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-   "yes_price": 0.855,
-   "volume_24h": 337547.5682849997,
-   "volume": 12753942.91451902,
-   "end_date": "2026-07-29T00:00:00Z",
-   "lat": 38.9072,
-   "lng": -77.0369,
-   "region": "Federal Reserve",
-   "category": "",
-   "yes_price_6h_ago": 0.845,
-   "delta_6h": 0.01
-  },
-  {
-   "id": "665374",
-   "question": "Will the U.S. invade Iran before 2027?",
-   "slug": "will-the-us-invade-iran-before-2027",
-   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-   "yes_price": 0.155,
-   "volume_24h": 137546.26811,
-   "volume": 40248728.249220915,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.165,
-   "delta_6h": -0.01
-  }
- ]
+ "generated_at": "2026-07-10T14:46:01+00:00",
+ "count": 0,
+ "markets": []
 }
