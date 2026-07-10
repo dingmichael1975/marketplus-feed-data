@@ -1,38 +1,54 @@
 {
- "generated_at": "2026-07-10T18:39:40+00:00",
- "count": 2,
+ "generated_at": "2026-07-10T20:38:05+00:00",
+ "count": 3,
  "markets": [
   {
    "id": "1654958",
    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
    "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-   "yes_price": 0.785,
-   "volume_24h": 339739.666486,
-   "volume": 12949833.370735021,
+   "yes_price": 0.775,
+   "volume_24h": 355871.5891679999,
+   "volume": 12988015.021585021,
    "end_date": "2026-07-29T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "Federal Reserve",
    "category": "",
    "yes_price_6h_ago": 0.855,
-   "delta_6h": -0.07
+   "delta_6h": -0.08
   },
   {
    "id": "2686769",
    "question": "Iran full airspace closure by July 15?",
    "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
    "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-15-20260625195254149",
-   "yes_price": 0.12,
-   "volume_24h": 212299.64661400008,
-   "volume": 1506811.3756409974,
+   "yes_price": 0.095,
+   "volume_24h": 212597.59679700024,
+   "volume": 1533211.5474209967,
    "end_date": "2026-07-15T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
    "yes_price_6h_ago": 0.146,
-   "delta_6h": -0.026
+   "delta_6h": -0.051
+  },
+  {
+   "id": "2176262",
+   "question": "Strait of Hormuz traffic returns to normal by July 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "yes_price": 0.055,
+   "volume_24h": 233627.379639,
+   "volume": 13941694.019852242,
+   "end_date": "2026-07-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.045,
+   "delta_6h": 0.01
   }
  ]
 }
