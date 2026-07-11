@@ -1,22 +1,38 @@
 {
- "generated_at": "2026-07-11T19:17:21+00:00",
- "count": 1,
+ "generated_at": "2026-07-11T21:00:03+00:00",
+ "count": 2,
  "markets": [
   {
-   "id": "2686769",
-   "question": "Iran full airspace closure by July 15?",
-   "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
-   "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-15-20260625195254149",
-   "yes_price": 0.053,
-   "volume_24h": 238079.50554599994,
-   "volume": 1745438.1111869991,
-   "end_date": "2026-07-15T23:59:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
+   "id": "2176262",
+   "question": "Strait of Hormuz traffic returns to normal by July 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+   "yes_price": 0.075,
+   "volume_24h": 1086194.6779669994,
+   "volume": 15036840.334481286,
+   "end_date": "2026-07-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
    "category": "",
-   "yes_price_6h_ago": 0.074,
-   "delta_6h": -0.021
+   "yes_price_6h_ago": 0.115,
+   "delta_6h": -0.04
+  },
+  {
+   "id": "2844058",
+   "question": "Will Argentina win on 2026-07-11?",
+   "slug": "fifwc-arg-che-2026-07-11-arg",
+   "url": "https://polymarket.com/event/fifwc-arg-che-2026-07-11-arg",
+   "yes_price": 0.5687,
+   "volume_24h": 2190840.24199204,
+   "volume": 2960855.69305097,
+   "end_date": "2026-07-12T01:00:00Z",
+   "lat": -38.4161,
+   "lng": -63.6167,
+   "region": "Argentina",
+   "category": "",
+   "yes_price_6h_ago": 0.5787,
+   "delta_6h": -0.01
   }
  ]
 }
