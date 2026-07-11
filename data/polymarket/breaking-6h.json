@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-11T07:16:20+00:00",
- "count": 2,
+ "generated_at": "2026-07-11T09:44:47+00:00",
+ "count": 3,
  "markets": [
   {
    "id": "2685911",
@@ -8,31 +8,47 @@
    "slug": "us-x-iran-diplomatic-meeting-by-july-17-2026-20260625223459704",
    "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-july-17-2026-20260625223459704",
    "yes_price": 0.195,
-   "volume_24h": 116506.08567199994,
-   "volume": 652054.5902739987,
+   "volume_24h": 116940.71742699995,
+   "volume": 653782.8332389987,
    "end_date": "2026-07-17T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.23,
-   "delta_6h": -0.035
+   "yes_price_6h_ago": 0.18,
+   "delta_6h": 0.015
+  },
+  {
+   "id": "2795946",
+   "question": "Will the price of Bitcoin be above $66,000 on July 11?",
+   "slug": "bitcoin-above-66k-on-july-11-2026",
+   "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-11-2026",
+   "yes_price": 0.002,
+   "volume_24h": 167579.777047,
+   "volume": 191427.8386,
+   "end_date": "2026-07-11T16:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.0125,
+   "delta_6h": -0.0105
   },
   {
    "id": "2643405",
    "question": "Will the US announce a blockade on Iran by July 31?",
    "slug": "will-the-us-announce-a-blockade-on-iran-by-july-31-20260622191116912",
    "url": "https://polymarket.com/event/will-the-us-announce-a-blockade-on-iran-by-july-31-20260622191116912",
-   "yes_price": 0.215,
-   "volume_24h": 213295.1281580001,
-   "volume": 990344.6959450004,
+   "yes_price": 0.205,
+   "volume_24h": 215416.29279500016,
+   "volume": 994162.3768300003,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.245,
-   "delta_6h": -0.03
+   "yes_price_6h_ago": 0.215,
+   "delta_6h": -0.01
   }
  ]
 }
