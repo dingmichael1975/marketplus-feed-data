@@ -1,54 +1,38 @@
 {
- "generated_at": "2026-07-11T21:57:09+00:00",
- "count": 3,
+ "generated_at": "2026-07-11T22:58:13+00:00",
+ "count": 2,
  "markets": [
+  {
+   "id": "2686769",
+   "question": "Iran full airspace closure by July 15?",
+   "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
+   "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-15-20260625195254149",
+   "yes_price": 0.1415,
+   "volume_24h": 241879.82612999986,
+   "volume": 1796071.0846270001,
+   "end_date": "2026-07-15T23:59:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": "",
+   "yes_price_6h_ago": 0.0525,
+   "delta_6h": 0.089
+  },
   {
    "id": "2176262",
    "question": "Strait of Hormuz traffic returns to normal by July 31?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "yes_price": 0.065,
-   "volume_24h": 830616.9974710005,
-   "volume": 15070855.970475286,
+   "volume_24h": 1043391.5699060005,
+   "volume": 15338291.043234283,
    "end_date": "2026-07-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
-   "yes_price_6h_ago": 0.095,
-   "delta_6h": -0.03
-  },
-  {
-   "id": "2686769",
-   "question": "Iran full airspace closure by July 15?",
-   "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
-   "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-15-20260625195254149",
-   "yes_price": 0.068,
-   "volume_24h": 203313.79466500005,
-   "volume": 1753791.7114449993,
-   "end_date": "2026-07-15T23:59:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.0435,
-   "delta_6h": 0.0245
-  },
-  {
-   "id": "2844058",
-   "question": "Will Argentina win on 2026-07-11?",
-   "slug": "fifwc-arg-che-2026-07-11-arg",
-   "url": "https://polymarket.com/event/fifwc-arg-che-2026-07-11-arg",
-   "yes_price": 0.5687,
-   "volume_24h": 2151738.570881051,
-   "volume": 3070788.4266859805,
-   "end_date": "2026-07-12T01:00:00Z",
-   "lat": -38.4161,
-   "lng": -63.6167,
-   "region": "Argentina",
-   "category": "",
-   "yes_price_6h_ago": 0.5787,
-   "delta_6h": -0.01
+   "yes_price_6h_ago": 0.085,
+   "delta_6h": -0.02
   }
  ]
 }
