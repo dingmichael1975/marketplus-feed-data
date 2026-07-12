@@ -1,38 +1,70 @@
 {
- "generated_at": "2026-07-11T22:58:13+00:00",
- "count": 2,
+ "generated_at": "2026-07-12T00:02:28+00:00",
+ "count": 4,
  "markets": [
   {
    "id": "2686769",
    "question": "Iran full airspace closure by July 15?",
    "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
    "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-15-20260625195254149",
-   "yes_price": 0.1415,
-   "volume_24h": 241879.82612999986,
-   "volume": 1796071.0846270001,
+   "yes_price": 0.0885,
+   "volume_24h": 303705.17287299986,
+   "volume": 1869464.311676,
    "end_date": "2026-07-15T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.0525,
-   "delta_6h": 0.089
+   "yes_price_6h_ago": 0.053,
+   "delta_6h": 0.0355
   },
   {
    "id": "2176262",
    "question": "Strait of Hormuz traffic returns to normal by July 31?",
    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
    "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
-   "yes_price": 0.065,
-   "volume_24h": 1043391.5699060005,
-   "volume": 15338291.043234283,
+   "yes_price": 0.055,
+   "volume_24h": 1046671.6075680004,
+   "volume": 15356069.555068284,
    "end_date": "2026-07-31T00:00:00Z",
    "lat": 26.5667,
    "lng": 56.25,
    "region": "Strait of Hormuz",
    "category": "",
    "yes_price_6h_ago": 0.085,
-   "delta_6h": -0.02
+   "delta_6h": -0.03
+  },
+  {
+   "id": "558938",
+   "question": "Will Argentina win the 2026 FIFA World Cup?",
+   "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+   "url": "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245",
+   "yes_price": 0.166,
+   "volume_24h": 2156750.716203004,
+   "volume": 125176019.64937182,
+   "end_date": "2026-07-20T00:00:00Z",
+   "lat": -38.4161,
+   "lng": -63.6167,
+   "region": "Argentina",
+   "category": "",
+   "yes_price_6h_ago": 0.1785,
+   "delta_6h": -0.0125
+  },
+  {
+   "id": "2844240",
+   "question": "Argentina vs. Switzerland: Both Teams to Score",
+   "slug": "fifwc-arg-che-2026-07-11-btts",
+   "url": "https://polymarket.com/event/fifwc-arg-che-2026-07-11-btts",
+   "yes_price": 0.455,
+   "volume_24h": 247494.26426600036,
+   "volume": 274930.8237619991,
+   "end_date": "2026-07-12T01:00:00Z",
+   "lat": -38.4161,
+   "lng": -63.6167,
+   "region": "Argentina",
+   "category": "",
+   "yes_price_6h_ago": 0.445,
+   "delta_6h": 0.01
   }
  ]
 }
