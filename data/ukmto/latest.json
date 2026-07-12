@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-07-12T09:59:59+00:00",
- "count": 18,
+ "generated_at": "2026-07-12T13:52:49+00:00",
+ "count": 19,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 83,
+   "type": "Attack",
+   "severity": "high",
+   "date": "11 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO has received a report of an incident 9NM east of Oman.\nMilitary authorities have reported that a container ship has sustained damage to the rear of the vessel which has caused a fire onboard.\nAuthorities are investigating.\nUPDATE 001: UKMTO has been informed by military authorities and the CSO of the vessel that the crew have abandoned the vessel and are currently embarked in a lifeboat.\nUPDATE 002: UKMTO has spoken to the CSO of the container ship who confirms that the crew has been rescued by local authorities.\nAuthorities continue to investigate.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
   {
    "number": 82,
    "type": "Attack",
