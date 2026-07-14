@@ -1,8 +1,48 @@
 {
- "generated_at": "2026-07-14T10:07:49+00:00",
- "count": 19,
+ "generated_at": "2026-07-14T14:09:51+00:00",
+ "count": 23,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 87,
+   "type": "Attack",
+   "severity": "high",
+   "date": "14 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 087-26\nIncident Date: 13 Jul 2026 Incident Time: TBC\nUKMTO has received a report of an incident 13NM southeast of Limah, Oman.\nA tanker has reported being hit by a missile while transiting outbound on the southern route."
+  },
+  {
+   "number": 86,
+   "type": "Attack",
+   "severity": "high",
+   "date": "14 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 086-26\nIncident Date: 13 Jul 2026 Incident Time:TBC\nUKMTO has received a report of an incident 13NM southeast of Limah, Oman.\nA tanker has reported being hit by a missile while transiting outbound on the southern route."
+  },
+  {
+   "number": 85,
+   "type": "Attack",
+   "severity": "high",
+   "date": "13 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 085-26 - ATTACK\nReport Date: 13 Jul 2026\nReport Time: 2104 UTC\nIssue Date: 13 Jul 2026\nSource: Master\nUKMTO has received a report of an incident 40NM northeast of Qalhat, Oman.\nThe Master of a Tanker reports being hit by an unknown projectile on the starboard side engine\nroom. All crew are safe and accounted for with no environmental impact reported.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO.\nAuthorities continue to investigate."
+  },
+  {
+   "number": 84,
+   "type": "Suspicious Activity",
+   "severity": "medium",
+   "date": "13 July 2026",
+   "region": "Irtc",
+   "lat": 13.5,
+   "lng": 48.5,
+   "body": "UKMTO WARNING 084-26 - SUSPICIOUS ACTIVITY\nReport Date:13 Jul 2026 Report Time:1019UTC\nUKMTO has received a report of an incident 50NM south of Aden, Yemen.\nA tanker travelling east in the IRTC has reported being approached by 6 small boats\napproaching from the starboard side. One small boat has closed to 5 cables and the\nAST on board the tanker has fired warning shots. The other 5 small boats have\nremained at 1NM."
+  },
   {
    "number": 83,
    "type": "Attack",
