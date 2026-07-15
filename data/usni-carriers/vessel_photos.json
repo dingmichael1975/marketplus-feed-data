@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-08T10:09:14+00:00",
- "count": 20,
+ "generated_at": "2026-07-15T09:53:35+00:00",
+ "count": 21,
  "by_name": {
   "USS George H.W. Bush": {
    "wiki_title": "USS George H. W. Bush",
@@ -140,6 +140,13 @@
    "wiki_url": "https://en.wikipedia.org/wiki/USS_Mount_Whitney",
    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/US_Navy_050827-N-9197B-234_The_USS_Mount_Whitney_%28LCC_20%29%2C_is_underway_with_Sailors_and_Marines_from_the_newly_combined_staff_for_commander_Naval_Forces_Europe_and_commander_6th_Fleet_%28CNE-C6f%29.jpg",
    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/US_Navy_050827-N-9197B-234_The_USS_Mount_Whitney_%28LCC_20%29%2C_is_underway_with_Sailors_and_Marines_from_the_newly_combined_staff_for_commander_Naval_Forces_Europe_and_commander_6th_Fleet_%28CNE-C6f%29.jpg/330px-thumbnail.jpg",
+   "attribution": "Wikipedia (CC BY-SA)"
+  },
+  "USS Carl Vinson": {
+   "wiki_title": "USS Carl Vinson",
+   "wiki_url": "https://en.wikipedia.org/wiki/USS_Carl_Vinson",
+   "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Carl_Vinson_%28CVN-70%29_underway_in_the_Pacific_Ocean_on_31_May_2015.JPG",
+   "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/USS_Carl_Vinson_%28CVN-70%29_underway_in_the_Pacific_Ocean_on_31_May_2015.JPG/330px-USS_Carl_Vinson_%28CVN-70%29_underway_in_the_Pacific_Ocean_on_31_May_2015.JPG",
    "attribution": "Wikipedia (CC BY-SA)"
   }
  }
