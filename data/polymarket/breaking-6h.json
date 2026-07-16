@@ -1,38 +1,5 @@
 {
- "generated_at": "2026-07-16T15:08:54+00:00",
- "count": 2,
- "markets": [
-  {
-   "id": "2923346",
-   "question": "Bitcoin Up or Down on July 16?",
-   "slug": "bitcoin-up-or-down-on-july-16-2026",
-   "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-16-2026",
-   "yes_price": 0.0035,
-   "volume_24h": 223740.58046399982,
-   "volume": 225502.5617290001,
-   "end_date": "2026-07-16T16:00:00Z",
-   "lat": 37.7749,
-   "lng": -122.4194,
-   "region": "Bitcoin (SF proxy)",
-   "category": "",
-   "yes_price_6h_ago": 0.045,
-   "delta_6h": -0.0415
-  },
-  {
-   "id": "2860514",
-   "question": "Will the price of Bitcoin be above $62,000 on July 16?",
-   "slug": "bitcoin-above-62k-on-july-16-2026",
-   "url": "https://polymarket.com/event/bitcoin-above-62k-on-july-16-2026",
-   "yes_price": 0.9995,
-   "volume_24h": 295652.82341699995,
-   "volume": 343267.6918219999,
-   "end_date": "2026-07-16T16:00:00Z",
-   "lat": 37.7749,
-   "lng": -122.4194,
-   "region": "Bitcoin (SF proxy)",
-   "category": "",
-   "yes_price_6h_ago": 0.983,
-   "delta_6h": 0.0165
-  }
- ]
+ "generated_at": "2026-07-16T17:26:39+00:00",
+ "count": 0,
+ "markets": []
 }
