@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-07-16T21:11:25+00:00",
+ "generated_at": "2026-07-16T23:04:47+00:00",
  "count": 1,
  "markets": [
   {
-   "id": "2930365",
-   "question": "ODI Series England vs India: England vs India",
-   "slug": "crint-gbr2-ind4-2026-07-16",
-   "url": "https://polymarket.com/event/crint-gbr2-ind4-2026-07-16",
-   "yes_price": 0.9995,
-   "volume_24h": 1346766.4082499996,
-   "volume": 1349684.2946019992,
-   "end_date": "2026-07-23T08:00:00Z",
-   "lat": 20.5937,
-   "lng": 78.9629,
-   "region": "India",
+   "id": "2063135",
+   "question": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+   "slug": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia",
+   "url": "https://polymarket.com/event/will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia",
+   "yes_price": 0.0125,
+   "volume_24h": 6243499.585414,
+   "volume": 55904228.25117603,
+   "end_date": "2026-06-01T00:00:00Z",
+   "lat": 9.145,
+   "lng": 40.4897,
+   "region": "Ethiopia",
    "category": "",
-   "yes_price_6h_ago": 0.745,
-   "delta_6h": 0.2545
+   "yes_price_6h_ago": 0.002,
+   "delta_6h": 0.0105
   }
  ]
 }
