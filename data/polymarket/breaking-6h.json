@@ -1,54 +1,38 @@
 {
- "generated_at": "2026-07-16T12:25:15+00:00",
- "count": 3,
+ "generated_at": "2026-07-16T15:08:54+00:00",
+ "count": 2,
  "markets": [
   {
    "id": "2923346",
    "question": "Bitcoin Up or Down on July 16?",
    "slug": "bitcoin-up-or-down-on-july-16-2026",
    "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-16-2026",
-   "yes_price": 0.035,
-   "volume_24h": 179826.01202799988,
-   "volume": 179933.1296540002,
+   "yes_price": 0.0035,
+   "volume_24h": 223740.58046399982,
+   "volume": 225502.5617290001,
    "end_date": "2026-07-16T16:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
    "category": "",
-   "yes_price_6h_ago": 0.145,
-   "delta_6h": -0.11
+   "yes_price_6h_ago": 0.045,
+   "delta_6h": -0.0415
   },
   {
-   "id": "2758339",
-   "question": "Will Bitcoin reach $67,500 in July?",
-   "slug": "will-bitcoin-reach-67pt5k-in-july-2026",
-   "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-   "yes_price": 0.425,
-   "volume_24h": 112907.93576300002,
-   "volume": 1094955.2607599983,
-   "end_date": "2026-08-01T04:00:00Z",
+   "id": "2860514",
+   "question": "Will the price of Bitcoin be above $62,000 on July 16?",
+   "slug": "bitcoin-above-62k-on-july-16-2026",
+   "url": "https://polymarket.com/event/bitcoin-above-62k-on-july-16-2026",
+   "yes_price": 0.9995,
+   "volume_24h": 295652.82341699995,
+   "volume": 343267.6918219999,
+   "end_date": "2026-07-16T16:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
    "category": "",
-   "yes_price_6h_ago": 0.495,
-   "delta_6h": -0.07
-  },
-  {
-   "id": "2643400",
-   "question": "Will Iran announce withdrawal from MOU negotiations by July 31?",
-   "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
-   "url": "https://polymarket.com/event/will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
-   "yes_price": 0.14,
-   "volume_24h": 140224.392424,
-   "volume": 2042172.0944220019,
-   "end_date": "2026-07-31T23:59:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.155,
-   "delta_6h": -0.015
+   "yes_price_6h_ago": 0.983,
+   "delta_6h": 0.0165
   }
  ]
 }
