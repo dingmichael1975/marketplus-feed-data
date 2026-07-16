@@ -1,5 +1,22 @@
 {
- "generated_at": "2026-07-16T17:26:39+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-07-16T19:24:03+00:00",
+ "count": 1,
+ "markets": [
+  {
+   "id": "2507618",
+   "question": "Kharg Island no longer under Iranian control by August 31?",
+   "slug": "kharg-island-no-longer-under-iranian-control-by-august-31",
+   "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-august-31",
+   "yes_price": 0.065,
+   "volume_24h": 308998.64683399996,
+   "volume": 1641699.5225050026,
+   "end_date": "2026-06-30T23:55:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": "",
+   "yes_price_6h_ago": 0.077,
+   "delta_6h": -0.012
+  }
+ ]
 }
