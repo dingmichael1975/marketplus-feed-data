@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T23:04:47+00:00",
+ "generated_at": "2026-07-17T00:08:56+00:00",
  "count": 1,
  "markets": [
   {
@@ -15,8 +15,8 @@
    "lng": 40.4897,
    "region": "Ethiopia",
    "category": "",
-   "yes_price_6h_ago": 0.002,
-   "delta_6h": 0.0105
+   "yes_price_6h_ago": 0.0025,
+   "delta_6h": 0.01
   }
  ]
 }
