@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T04:14:35+00:00",
- "count": 3,
+ "generated_at": "2026-07-17T07:24:11+00:00",
+ "count": 1,
  "markets": [
   {
    "id": "2686770",
@@ -8,8 +8,8 @@
    "slug": "iran-full-airspace-closure-by-july-31-20260625195254150",
    "url": "https://polymarket.com/event/iran-full-airspace-closure-by-july-31-20260625195254150",
    "yes_price": 0.255,
-   "volume_24h": 172421.91254200012,
-   "volume": 970879.1439819966,
+   "volume_24h": 173657.17484900012,
+   "volume": 972993.6669199966,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
@@ -17,38 +17,6 @@
    "category": "",
    "yes_price_6h_ago": 0.305,
    "delta_6h": -0.05
-  },
-  {
-   "id": "2063129",
-   "question": "Will Belete Molla be the next Prime Minister of Ethiopia?",
-   "slug": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
-   "url": "https://polymarket.com/event/will-belete-molla-be-the-next-prime-minister-of-ethiopia",
-   "yes_price": 0.0215,
-   "volume_24h": 2867605.9526469996,
-   "volume": 14255547.917746007,
-   "end_date": "2026-06-01T00:00:00Z",
-   "lat": 9.145,
-   "lng": 40.4897,
-   "region": "Ethiopia",
-   "category": "",
-   "yes_price_6h_ago": 0.0015,
-   "delta_6h": 0.02
-  },
-  {
-   "id": "1469737",
-   "question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-   "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "url": "https://polymarket.com/event/will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "yes_price": 0.801,
-   "volume_24h": 183244.4435309998,
-   "volume": 3310923.6812099935,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.7895,
-   "delta_6h": 0.0115
   }
  ]
 }
