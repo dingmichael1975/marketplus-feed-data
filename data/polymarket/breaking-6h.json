@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-07-18T16:05:21+00:00",
+ "generated_at": "2026-07-18T18:00:28+00:00",
  "count": 2,
  "markets": [
   {
-   "id": "2947335",
-   "question": "Bitcoin Up or Down on July 18?",
-   "slug": "bitcoin-up-or-down-on-july-18-2026",
-   "url": "https://polymarket.com/event/bitcoin-up-or-down-on-july-18-2026",
-   "yes_price": 0.9995,
-   "volume_24h": 307690.97271999996,
-   "volume": 309757.2234859996,
-   "end_date": "2026-07-18T16:00:00Z",
-   "lat": 37.7749,
-   "lng": -122.4194,
-   "region": "Bitcoin (SF proxy)",
+   "id": "665374",
+   "question": "Will the U.S. invade Iran before 2027?",
+   "slug": "will-the-us-invade-iran-before-2027",
+   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+   "yes_price": 0.295,
+   "volume_24h": 528917.5881629993,
+   "volume": 44485861.342419386,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.955,
-   "delta_6h": 0.0445
+   "yes_price_6h_ago": 0.285,
+   "delta_6h": 0.01
   },
   {
    "id": "2942020",
    "question": "Exact Score: Spain 2 - 2 Argentina?",
    "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-2",
    "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-exact-score-2-2",
-   "yes_price": 0.055,
-   "volume_24h": 343715.7455370003,
-   "volume": 574919.933852001,
+   "yes_price": 0.045,
+   "volume_24h": 368822.9505710002,
+   "volume": 616357.3022010009,
    "end_date": "2026-07-19T19:00:00Z",
    "lat": -38.4161,
    "lng": -63.6167,
    "region": "Argentina",
    "category": "",
-   "yes_price_6h_ago": 0.045,
-   "delta_6h": 0.01
+   "yes_price_6h_ago": 0.055,
+   "delta_6h": -0.01
   }
  ]
 }
