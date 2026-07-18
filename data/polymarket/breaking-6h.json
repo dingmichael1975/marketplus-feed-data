@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T21:00:12+00:00",
+ "generated_at": "2026-07-18T21:57:02+00:00",
  "count": 3,
  "markets": [
   {
@@ -7,16 +7,16 @@
    "question": "Kharg Island no longer under Iranian control by July 31?",
    "slug": "kharg-island-no-longer-under-iranian-control-by-july-31",
    "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-july-31",
-   "yes_price": 0.0485,
-   "volume_24h": 234126.40689200003,
-   "volume": 3426575.3263239986,
+   "yes_price": 0.0425,
+   "volume_24h": 273243.7351730001,
+   "volume": 3469451.376029998,
    "end_date": "2026-06-30T23:55:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.03,
-   "delta_6h": 0.0185
+   "yes_price_6h_ago": 0.0295,
+   "delta_6h": 0.013
   },
   {
    "id": "665374",
@@ -24,8 +24,8 @@
    "slug": "will-the-us-invade-iran-before-2027",
    "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
    "yes_price": 0.295,
-   "volume_24h": 456419.39831900015,
-   "volume": 44563374.84888644,
+   "volume_24h": 437343.55878900015,
+   "volume": 44583882.11779745,
    "end_date": "2026-12-31T00:00:00Z",
    "lat": 32.4279,
    "lng": 53.688,
@@ -40,8 +40,8 @@
    "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-2",
    "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-exact-score-2-2",
    "yes_price": 0.045,
-   "volume_24h": 377352.2778290001,
-   "volume": 652317.4566020005,
+   "volume_24h": 282706.67022399994,
+   "volume": 682316.6366020006,
    "end_date": "2026-07-19T19:00:00Z",
    "lat": -38.4161,
    "lng": -63.6167,
