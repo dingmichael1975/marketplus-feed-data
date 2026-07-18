@@ -1,8 +1,48 @@
 {
- "generated_at": "2026-07-18T13:44:49+00:00",
- "count": 23,
+ "generated_at": "2026-07-18T17:12:08+00:00",
+ "count": 27,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 28082036,
+   "type": "Advisory",
+   "severity": "low",
+   "date": "17 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO has received a report of an incident involving a merchant vessel and military\nforces approximately 100NM east of Duqm, Oman.\nReports indicate that the tanker was subject to interaction as part of ongoing\nmilitary activity in the region.\nAuthorities are aware and relevant investigations remain ongoing."
+  },
+  {
+   "number": 89,
+   "type": "Advisory",
+   "severity": "low",
+   "date": "17 July 2026",
+   "region": "Arabian Gulf",
+   "lat": 26.5,
+   "lng": 51.5,
+   "body": "UKMTO ADVISORY 089-26. Report Date: 15 Jul 2026\nIssue Date: 17 Jul 2026\nSource: Military authorities\nUKMTO has received a report of an incident involving a merchant vessel and military\nforces in the Arabian Gulf.\nReports indicate that the tanker was subject to interactions as part of ongoing\nmilitary activity in the region.\nAuthorities are aware and relevant investigations remain ongoing.\nVessels are advised to consider the latest maritime security information and\nmaintain awareness of the evolving operational environment."
+  },
+  {
+   "number": 90,
+   "type": "Hijack",
+   "severity": "critical",
+   "date": "17 July 2026",
+   "region": "Al Mukalla",
+   "lat": 14.5237,
+   "lng": 49.1265,
+   "body": "UKMTO has received a report of an incident 65NM south of Al Mukalla, Yemen.\nMilitary authorities have reported that the vessel was boarded by unauthorised\npersonnel whilst transiting east in the Gulf of Aden.\nAuthorities are investigating.\nUPDATE 001 – Military authorities have reported to UKMTO that the vessel involved has\nbeen maneuvered into Somalian territorial waters. UKMTO has re-classified this incident\nas Hijack"
+  },
+  {
+   "number": 88,
+   "type": "Attack",
+   "severity": "high",
+   "date": "17 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 088-26. UKMTO has received a report of an incident 19NM east of Khasab, Oman.\nA tanker has reported being hit by an unknown projectile causing minor structural\ndamage to the port side.\nAll crew are safe and accounted for, no environmental impact has been reported and\nthe vessel is continuing to its next port of call.\nAuthorities are investigating."
+  },
   {
    "number": 87,
    "type": "Attack",
