@@ -1,22 +1,38 @@
 {
- "generated_at": "2026-07-18T23:59:57+00:00",
- "count": 3,
+ "generated_at": "2026-07-19T03:39:17+00:00",
+ "count": 4,
  "markets": [
   {
    "id": "1469737",
    "question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
    "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
    "url": "https://polymarket.com/event/will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "yes_price": 0.7315,
-   "volume_24h": 245462.71838999583,
-   "volume": 3739577.9461270077,
+   "yes_price": 0.7475,
+   "volume_24h": 248335.47697399626,
+   "volume": 3743310.2422720008,
    "end_date": "2026-12-31T00:00:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.7745,
-   "delta_6h": -0.043
+   "yes_price_6h_ago": 0.7245,
+   "delta_6h": 0.023
+  },
+  {
+   "id": "2945083",
+   "question": "Spain vs. Argentina: Both Teams to Score",
+   "slug": "fifwc-esp-arg-2026-07-19-btts",
+   "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-btts",
+   "yes_price": 0.535,
+   "volume_24h": 593692.0738770001,
+   "volume": 877652.4833620093,
+   "end_date": "2026-07-19T19:00:00Z",
+   "lat": -38.4161,
+   "lng": -63.6167,
+   "region": "Argentina",
+   "category": "",
+   "yes_price_6h_ago": 0.515,
+   "delta_6h": 0.02
   },
   {
    "id": "2643400",
@@ -24,31 +40,31 @@
    "slug": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
    "url": "https://polymarket.com/event/will-iran-announce-withdrawal-from-mou-negotiations-by-july-31-20260622191733846-586-829-787",
    "yes_price": 0.165,
-   "volume_24h": 221905.07569699985,
-   "volume": 2350679.1226900034,
+   "volume_24h": 231734.28743199987,
+   "volume": 2361979.684425004,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.205,
-   "delta_6h": -0.04
+   "yes_price_6h_ago": 0.18,
+   "delta_6h": -0.015
   },
   {
-   "id": "2507607",
-   "question": "Kharg Island no longer under Iranian control by July 31?",
-   "slug": "kharg-island-no-longer-under-iranian-control-by-july-31",
-   "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-july-31",
-   "yes_price": 0.041,
-   "volume_24h": 326988.009322,
-   "volume": 3555139.814520999,
-   "end_date": "2026-06-30T23:55:00Z",
+   "id": "665374",
+   "question": "Will the U.S. invade Iran before 2027?",
+   "slug": "will-the-us-invade-iran-before-2027",
+   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+   "yes_price": 0.285,
+   "volume_24h": 516420.77710700035,
+   "volume": 44735862.79462448,
+   "end_date": "2026-12-31T00:00:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.0305,
-   "delta_6h": 0.0105
+   "yes_price_6h_ago": 0.295,
+   "delta_6h": -0.01
   }
  ]
 }
