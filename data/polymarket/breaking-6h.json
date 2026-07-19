@@ -1,47 +1,15 @@
 {
- "generated_at": "2026-07-19T09:09:51+00:00",
- "count": 4,
+ "generated_at": "2026-07-19T11:15:46+00:00",
+ "count": 3,
  "markets": [
-  {
-   "id": "1469737",
-   "question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
-   "slug": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "url": "https://polymarket.com/event/will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
-   "yes_price": 0.724,
-   "volume_24h": 288414.7048330004,
-   "volume": 3838792.6950929738,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.7475,
-   "delta_6h": -0.0235
-  },
-  {
-   "id": "665374",
-   "question": "Will the U.S. invade Iran before 2027?",
-   "slug": "will-the-us-invade-iran-before-2027",
-   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-   "yes_price": 0.305,
-   "volume_24h": 499740.27599400014,
-   "volume": 44766663.70219351,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.285,
-   "delta_6h": 0.02
-  },
   {
    "id": "2942020",
    "question": "Exact Score: Spain 2 - 2 Argentina?",
    "slug": "fifwc-esp-arg-2026-07-19-exact-score-2-2",
    "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-exact-score-2-2",
    "yes_price": 0.055,
-   "volume_24h": 982678.8908450014,
-   "volume": 1486923.2749780007,
+   "volume_24h": 1026212.808167,
+   "volume": 1547957.842299999,
    "end_date": "2026-07-19T19:00:00Z",
    "lat": -38.4161,
    "lng": -63.6167,
@@ -51,20 +19,36 @@
    "delta_6h": 0.01
   },
   {
+   "id": "665374",
+   "question": "Will the U.S. invade Iran before 2027?",
+   "slug": "will-the-us-invade-iran-before-2027",
+   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+   "yes_price": 0.295,
+   "volume_24h": 495630.87851800036,
+   "volume": 44772182.73890253,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": "",
+   "yes_price_6h_ago": 0.305,
+   "delta_6h": -0.01
+  },
+  {
    "id": "2937525",
    "question": "US x Iran Effective Ceasefire by July 31?",
    "slug": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
    "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
-   "yes_price": 0.16,
-   "volume_24h": 109045.713982,
-   "volume": 163942.77291600002,
+   "yes_price": 0.155,
+   "volume_24h": 112652.35344800001,
+   "volume": 168794.799969,
    "end_date": "2026-07-31T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.15,
-   "delta_6h": 0.01
+   "yes_price_6h_ago": 0.165,
+   "delta_6h": -0.01
   }
  ]
 }
