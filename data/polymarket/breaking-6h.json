@@ -1,38 +1,22 @@
 {
- "generated_at": "2026-07-20T00:04:02+00:00",
- "count": 2,
+ "generated_at": "2026-07-20T03:57:00+00:00",
+ "count": 1,
  "markets": [
-  {
-   "id": "558938",
-   "question": "Will Argentina win the 2026 FIFA World Cup?",
-   "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
-   "url": "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245",
-   "yes_price": 0.0005,
-   "volume_24h": 14583195.139330069,
-   "volume": 174245538.01573423,
-   "end_date": "2026-07-20T00:00:00Z",
-   "lat": -38.4161,
-   "lng": -63.6167,
-   "region": "Argentina",
-   "category": "",
-   "yes_price_6h_ago": 0.4125,
-   "delta_6h": -0.412
-  },
   {
    "id": "1654958",
    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
    "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-   "yes_price": 0.9295,
-   "volume_24h": 488680.8554510005,
-   "volume": 20779905.665721003,
+   "yes_price": 0.9345,
+   "volume_24h": 540450.4290520009,
+   "volume": 20840109.164692998,
    "end_date": "2026-07-29T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "Federal Reserve",
    "category": "",
-   "yes_price_6h_ago": 0.9435,
-   "delta_6h": -0.014
+   "yes_price_6h_ago": 0.9245,
+   "delta_6h": 0.01
   }
  ]
 }
