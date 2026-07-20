@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-19T23:01:51+00:00",
- "count": 3,
+ "generated_at": "2026-07-20T00:04:02+00:00",
+ "count": 2,
  "markets": [
   {
    "id": "558938",
@@ -8,8 +8,8 @@
    "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
    "url": "https://polymarket.com/event/will-argentina-win-the-2026-fifa-world-cup-245",
    "yes_price": 0.0005,
-   "volume_24h": 14886557.49876709,
-   "volume": 174133025.4857342,
+   "volume_24h": 14583195.139330069,
+   "volume": 174245538.01573423,
    "end_date": "2026-07-20T00:00:00Z",
    "lat": -38.4161,
    "lng": -63.6167,
@@ -23,32 +23,16 @@
    "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
    "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
    "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-   "yes_price": 0.9215,
-   "volume_24h": 478745.21815200045,
-   "volume": 20767570.903434,
+   "yes_price": 0.9295,
+   "volume_24h": 488680.8554510005,
+   "volume": 20779905.665721003,
    "end_date": "2026-07-29T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "Federal Reserve",
    "category": "",
    "yes_price_6h_ago": 0.9435,
-   "delta_6h": -0.022
-  },
-  {
-   "id": "665374",
-   "question": "Will the U.S. invade Iran before 2027?",
-   "slug": "will-the-us-invade-iran-before-2027",
-   "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-   "yes_price": 0.295,
-   "volume_24h": 327234.1963689997,
-   "volume": 44949780.58266165,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.305,
-   "delta_6h": -0.01
+   "delta_6h": -0.014
   }
  ]
 }
