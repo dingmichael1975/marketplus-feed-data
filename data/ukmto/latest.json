@@ -1,10 +1,40 @@
 {
- "generated_at": "2026-07-20T14:31:42+00:00",
- "count": 27,
+ "generated_at": "2026-07-21T10:32:55+00:00",
+ "count": 30,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
   {
-   "number": 28082036,
+   "number": 94,
+   "type": "Attack",
+   "severity": "high",
+   "date": "20 July 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO has received a report of an incident 8NM northeast of LIMAH, OMAN\nUKMTO has received multiple reports that a tanker is reporting over VHF Channel 16\nthat it has been struck by an unknown projectile in the Strait of Hormuz.\nUPDATE 001: The CSO of the tanker has reported to UKMTO that the crew have abandoned the\nvessel and are currently embarked in a lifeboat.\nNo environmental impact has been reported.\nAuthorities are investigating."
+  },
+  {
+   "number": 92,
+   "type": "Attack",
+   "severity": "high",
+   "date": "19 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO has received a report of an incident 8NM northwest of Kumzar, Oman.\nUKMTO have received information from military authorities that a vessel is on fire. The cause of\nthe fire has not been verified as this time.\nUpdate – 001 UKMTO has reclassified as an Attack. The CSO has confirmed the vessel was struck\nby an unknown projectile. The crew safely abandoned the vessel and have been recovered by a\ntug boat. The fire has not been extinguished and the vessel is currently adrift. There is no\nreported environmental impact.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO while authorities investigate."
+  },
+  {
+   "number": 93,
+   "type": "Attack",
+   "severity": "high",
+   "date": "19 July 2026",
+   "region": "United Arab Emirates",
+   "lat": 23.4241,
+   "lng": 53.8478,
+   "body": "UKMTO WARNING 093-26 - ATTACK\nReport Date:19 Jul 2026\nReport Time: 2230UTC\nIssue Date:20 Jul 2026\nSource: Master\nUKMTO has received a report of an incident 17NM east of Dibba, United Arab Emirates.\nThe Master of a vessel reports being struck by an unknown projectile causing damage to the\nsteering gear. All the crew are reported as safe. There is no environmental impact.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO"
+  },
+  {
+   "number": 91,
    "type": "Advisory",
    "severity": "low",
    "date": "17 July 2026",
