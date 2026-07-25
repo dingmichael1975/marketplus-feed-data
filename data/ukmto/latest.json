@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-07-25T09:58:37+00:00",
- "count": 31,
+ "generated_at": "2026-07-25T13:59:10+00:00",
+ "count": 32,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 96,
+   "type": "Advisory",
+   "severity": "low",
+   "date": "25 July 2026",
+   "region": "Gulf Of Oman",
+   "lat": 24.5,
+   "lng": 58.0,
+   "body": "UKMTO ADVISORY 096-26 - UKMTO have received a report of an incident involving a tanker and military forces in the Gulf of Oman.\nVessels are advised to consider the latest maritime security information and maintain awareness of the evolving operational environment. Authorities are aware and relevant investigations remain ongoing."
+  },
   {
    "number": 95,
    "type": "Attack",
