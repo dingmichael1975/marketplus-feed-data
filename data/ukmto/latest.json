@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-07-29T14:29:01+00:00",
- "count": 20,
+ "generated_at": "2026-07-29T17:35:28+00:00",
+ "count": 21,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 98,
+   "type": "Advisory",
+   "severity": "low",
+   "date": "27 July 2026",
+   "region": "Red Sea",
+   "lat": 20.0,
+   "lng": 38.0,
+   "body": "UKMTO ADVISORY 098-26 - UKMTO has received a report of suspicious activity. The Master of a tanker has reported hearing an explosion whilst transiting in the southern Red Sea.\nThe report confirms that crew and vessel are safe. No environmental damage has been reported.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
   {
    "number": 96,
    "type": "Advisory",
@@ -21,7 +31,7 @@
    "region": "Red Sea",
    "lat": 20.0,
    "lng": 38.0,
-   "body": "UKMTO 097-26 - UKMTO has received a report of an incident in the southern Red Sea.\nIt has been reported to UKMTO that a tanker witnessed a splash from an unknown\nprojectile in close proximity to the vessel. Reports confirm that the vessel and crew\nare safe. Environmental impact is unconfirmed at present.\nVessels are advised to transit with caution and report any suspicious activity to\nUKMTO while authorities continue to investigate"
+   "body": "UKMTO SUSPICIOUS ACTIVITY 097-26 - UKMTO has received a report of an incident in the southern Red Sea.\nIt has been reported to UKMTO that a tanker witnessed a splash from an unknown\nprojectile in close proximity to the vessel. Reports confirm that the vessel and crew\nare safe. Environmental impact is unconfirmed at present.\nVessels are advised to transit with caution and report any suspicious activity to\nUKMTO while authorities continue to investigate"
   },
   {
    "number": 95,
@@ -31,7 +41,7 @@
    "region": "Saudi Arabia",
    "lat": 23.8859,
    "lng": 45.0792,
-   "body": "UKMTO WARNING 095-26 - ATTACK\nReport Date: 22 Jul 2026\nReport Time: 2000 UTC\nIssue Date: 22 Jul 2026\nSource: Master\nUKMTO has received a report of an incident 70NM southwest of AL SHUQAIQ, Saudi Arabia. The Master of a tanker reports being struck by an unknown projectile which has caused a fire\nonboard that the crew are currently fighting. There are no reported casualties and no environmental impact.\nAuthorities are investigating. Vessels are advised to transit with caution and report any suspicious activity to UKMTO."
+   "body": "UKMTO ATTACK 095-26 - UKMTO has received a report of an incident 70NM southwest of AL SHUQAIQ, Saudi Arabia. The Master of a tanker reports being struck by an unknown projectile which has caused a fire\nonboard that the crew are currently fighting. There are no reported casualties and no environmental impact.\nAuthorities are investigating. Vessels are advised to transit with caution and report any suspicious activity to UKMTO."
   },
   {
    "number": 94,
@@ -41,7 +51,7 @@
    "region": "Strait Of Hormuz",
    "lat": 26.5667,
    "lng": 56.25,
-   "body": "UKMTO has received a report of an incident 8NM northeast of LIMAH, OMAN\nUKMTO has received multiple reports that a tanker is reporting over VHF Channel 16\nthat it has been struck by an unknown projectile in the Strait of Hormuz.\nUPDATE 001: The CSO of the tanker has reported to UKMTO that the crew have abandoned the\nvessel and are currently embarked in a lifeboat.\nNo environmental impact has been reported.\nAuthorities are investigating."
+   "body": "UKMTO ATTACK 094-26 - UKMTO has received a report of an incident 8NM northeast of LIMAH, OMAN\nUKMTO has received multiple reports that a tanker is reporting over VHF Channel 16\nthat it has been struck by an unknown projectile in the Strait of Hormuz.\nUPDATE 001: The CSO of the tanker has reported to UKMTO that the crew have abandoned the\nvessel and are currently embarked in a lifeboat.\nNo environmental impact has been reported.\nAuthorities are investigating."
   },
   {
    "number": 92,
@@ -51,7 +61,7 @@
    "region": "Oman",
    "lat": 21.4735,
    "lng": 55.9754,
-   "body": "UKMTO has received a report of an incident 8NM northwest of Kumzar, Oman.\nUKMTO have received information from military authorities that a vessel is on fire. The cause of\nthe fire has not been verified as this time.\nUpdate – 001 UKMTO has reclassified as an Attack. The CSO has confirmed the vessel was struck\nby an unknown projectile. The crew safely abandoned the vessel and have been recovered by a\ntug boat. The fire has not been extinguished and the vessel is currently adrift. There is no\nreported environmental impact.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO while authorities investigate."
+   "body": "UKMTO ATTACK 092-26 - UKMTO has received a report of an incident 8NM northwest of Kumzar, Oman.\nUKMTO have received information from military authorities that a vessel is on fire. The cause of\nthe fire has not been verified as this time.\nUpdate – 001 UKMTO has reclassified as an Attack. The CSO has confirmed the vessel was struck\nby an unknown projectile. The crew safely abandoned the vessel and have been recovered by a\ntug boat. The fire has not been extinguished and the vessel is currently adrift. There is no\nreported environmental impact.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO while authorities investigate."
   },
   {
    "number": 93,
@@ -71,7 +81,7 @@
    "region": "Oman",
    "lat": 21.4735,
    "lng": 55.9754,
-   "body": "UKMTO has received a report of an incident involving a merchant vessel and military\nforces approximately 100NM east of Duqm, Oman.\nReports indicate that the tanker was subject to interaction as part of ongoing\nmilitary activity in the region.\nAuthorities are aware and relevant investigations remain ongoing."
+   "body": "UKMTO ADVISORY 091 -26 - UKMTO has received a report of an incident involving a merchant vessel and military\nforces approximately 100NM east of Duqm, Oman.\nReports indicate that the tanker was subject to interaction as part of ongoing\nmilitary activity in the region.\nAuthorities are aware and relevant investigations remain ongoing."
   },
   {
    "number": 89,
@@ -91,7 +101,7 @@
    "region": "Al Mukalla",
    "lat": 14.5237,
    "lng": 49.1265,
-   "body": "UKMTO has received a report of an incident 65NM south of Al Mukalla, Yemen.\nMilitary authorities have reported that the vessel was boarded by unauthorised\npersonnel whilst transiting east in the Gulf of Aden.\nAuthorities are investigating.\nUPDATE 001 – Military authorities have reported to UKMTO that the vessel involved has\nbeen maneuvered into Somalian territorial waters. UKMTO has re-classified this incident\nas Hijack"
+   "body": "UKMTO HIJACK 090-26 - UKMTO has received a report of an incident 65NM south of Al Mukalla, Yemen.\nMilitary authorities have reported that the vessel was boarded by unauthorised\npersonnel whilst transiting east in the Gulf of Aden.\nAuthorities are investigating.\nUPDATE 001 – Military authorities have reported to UKMTO that the vessel involved has\nbeen maneuvered into Somalian territorial waters. UKMTO has re-classified this incident\nas Hijack"
   },
   {
    "number": 88,
