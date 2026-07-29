@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-07-22T10:18:03+00:00",
+ "generated_at": "2026-07-29T10:31:58+00:00",
  "weeks": [
+  "2026-07-07",
   "2026-06-29",
   "2026-06-22",
   "2026-06-08",
@@ -11,339 +12,9 @@
   "2026-04-20",
   "2026-04-13",
   "2026-04-06",
-  "2026-03-30",
-  "2026-03-23"
+  "2026-03-30"
  ],
  "vessels": [
-  {
-   "name": "USS Boxer ARG",
-   "photo_key": "ves-USS_USS_Boxer-1107e9",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 33.0,
-     "lng": -117.0
-    }
-   ],
-   "current": {
-    "lat": 33.0,
-    "lng": -117.0,
-    "region": "Pacific Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS George H.W. Bush (CVN-77)",
-   "photo_key": "ves-USS_George_H.W._Bush-a57ac1",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 39.0,
-     "lng": 1.0
-    },
-    {
-     "as_of": "2026-05-18",
-     "lat": 34.0,
-     "lng": 18.0
-    }
-   ],
-   "current": {
-    "lat": 34.0,
-    "lng": 18.0,
-    "region": "Mediterranean Sea",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS Nimitz (CVN-68)",
-   "photo_key": "ves-USS_Nimitz-f10671",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 24.0,
-     "lng": -110.0
-    },
-    {
-     "as_of": "2026-03-30",
-     "lat": 10.0,
-     "lng": -70.0
-    },
-    {
-     "as_of": "2026-04-06",
-     "lat": -3.0,
-     "lng": -81.0
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": -5.0,
-     "lng": -80.0
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": -33.0,
-     "lng": -71.6
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": -30.0,
-     "lng": -80.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": -22.9,
-     "lng": -43.2
-    },
-    {
-     "as_of": "2026-05-18",
-     "lat": -3.0,
-     "lng": -60.0
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 26.0,
-     "lng": 141.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": 32.0,
-     "lng": -117.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 30.4,
-     "lng": -81.6
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 32.0,
-     "lng": -120.0
-    }
-   ],
-   "current": {
-    "lat": 32.0,
-    "lng": -120.0,
-    "region": "Pacific Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS Iwo Jima ARG",
-   "photo_key": "ves-USS_USS_Iwo_Jima-ef6e9c",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 18.0,
-     "lng": -75.0
-    }
-   ],
-   "current": {
-    "lat": 18.0,
-    "lng": -75.0,
-    "region": "Caribbean Sea",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "Ford CSG",
-   "photo_key": "ves-USS_Ford-3fba05",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 35.0,
-     "lng": 25.0
-    },
-    {
-     "as_of": "2026-03-30",
-     "lat": 43.5,
-     "lng": 16.5
-    },
-    {
-     "as_of": "2026-04-06",
-     "lat": 35.0,
-     "lng": 20.0
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 36.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 36.5,
-     "lng": 18.2
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 35.0,
-     "lng": 20.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 36.5,
-     "lng": -75.0
-    }
-   ],
-   "current": {
-    "lat": 36.5,
-    "lng": -75.0,
-    "region": "Atlantic Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS Abraham Lincoln CSG",
-   "photo_key": "ves-USS_USS_Abraham_Lincoln-4b84b6",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 26.0,
-     "lng": 54.0
-    }
-   ],
-   "current": {
-    "lat": 26.0,
-    "lng": 54.0,
-    "region": "Persian Gulf",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS Tripoli (LHA-7)",
-   "photo_key": "ves-USS_Tripoli-51a490",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": -7.0,
-     "lng": 72.0
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 29.0,
-     "lng": 48.0
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 20.0,
-     "lng": 60.0
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 25.0,
-     "lng": 60.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 29.5,
-     "lng": 48.0
-    },
-    {
-     "as_of": "2026-05-18",
-     "lat": 34.0,
-     "lng": 18.0
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 33.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": 29.0,
-     "lng": 48.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 29.5,
-     "lng": 48.0
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 29.0,
-     "lng": 48.0
-    }
-   ],
-   "current": {
-    "lat": 29.0,
-    "lng": 48.0,
-    "region": "Persian Gulf",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "George Washington CSG",
-   "photo_key": "ves-USS_George_Washington-ffbde5",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-03-23",
-     "lat": 35.0,
-     "lng": 139.0
-    },
-    {
-     "as_of": "2026-03-30",
-     "lat": 35.5,
-     "lng": 139.5
-    },
-    {
-     "as_of": "2026-04-06",
-     "lat": 35.4,
-     "lng": 139.6
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 35.4,
-     "lng": 139.6
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 35.5,
-     "lng": 139.5
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 35.0,
-     "lng": 139.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 35.0,
-     "lng": 140.0
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 35.0,
-     "lng": 140.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": -8.0,
-     "lng": 157.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 25.0,
-     "lng": 135.0
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 35.0,
-     "lng": 140.0
-    }
-   ],
-   "current": {
-    "lat": 35.0,
-    "lng": 140.0,
-    "region": "Pacific Ocean",
-    "status": "deployed"
-   }
-  },
   {
    "name": "USS Theodore Roosevelt (CVN-71)",
    "photo_key": "ves-USS_Theodore_Roosevelt-440a3b",
@@ -436,12 +107,17 @@
      "as_of": "2026-06-29",
      "lat": 37.0,
      "lng": 15.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.0,
+     "lng": 70.0
     }
    ],
    "current": {
-    "lat": 37.0,
-    "lng": 15.0,
-    "region": "Mediterranean Sea",
+    "lat": 10.0,
+    "lng": 70.0,
+    "region": "Indian Ocean",
     "status": "deployed"
    }
   },
@@ -484,6 +160,122 @@
    }
   },
   {
+   "name": "USS Nimitz (CVN-68)",
+   "photo_key": "ves-USS_Nimitz-f10671",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-03-30",
+     "lat": 10.0,
+     "lng": -70.0
+    },
+    {
+     "as_of": "2026-04-06",
+     "lat": -3.0,
+     "lng": -81.0
+    },
+    {
+     "as_of": "2026-04-13",
+     "lat": -5.0,
+     "lng": -80.0
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": -33.0,
+     "lng": -71.6
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": -30.0,
+     "lng": -80.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": -22.9,
+     "lng": -43.2
+    },
+    {
+     "as_of": "2026-05-18",
+     "lat": -3.0,
+     "lng": -60.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 26.0,
+     "lng": 141.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": 32.0,
+     "lng": -117.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 30.4,
+     "lng": -81.6
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 32.0,
+     "lng": -120.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 40.0,
+     "lng": -75.0
+    }
+   ],
+   "current": {
+    "lat": 40.0,
+    "lng": -75.0,
+    "region": "North Atlantic",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "Ford CSG",
+   "photo_key": "ves-USS_Ford-3fba05",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-03-30",
+     "lat": 43.5,
+     "lng": 16.5
+    },
+    {
+     "as_of": "2026-04-06",
+     "lat": 35.0,
+     "lng": 20.0
+    },
+    {
+     "as_of": "2026-04-13",
+     "lat": 36.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 36.5,
+     "lng": 18.2
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 35.0,
+     "lng": 20.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 36.5,
+     "lng": -75.0
+    }
+   ],
+   "current": {
+    "lat": 36.5,
+    "lng": -75.0,
+    "region": "Atlantic Ocean",
+    "status": "deployed"
+   }
+  },
+  {
    "name": "Abraham Lincoln CSG USS Tripoli (LHA-7)",
    "photo_key": "ves-Abraham_Lincoln_CSG_USS_Tripoli-151d13",
    "type": "amphib",
@@ -503,6 +295,74 @@
     "lat": 25.0,
     "lng": 55.0,
     "region": "Persian Gulf",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "George Washington CSG",
+   "photo_key": "ves-USS_George_Washington-ffbde5",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-03-30",
+     "lat": 35.5,
+     "lng": 139.5
+    },
+    {
+     "as_of": "2026-04-06",
+     "lat": 35.4,
+     "lng": 139.6
+    },
+    {
+     "as_of": "2026-04-13",
+     "lat": 35.4,
+     "lng": 139.6
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 35.5,
+     "lng": 139.5
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 35.0,
+     "lng": 139.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": -8.0,
+     "lng": 157.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 25.0,
+     "lng": 135.0
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 20.0,
+     "lng": 130.0
+    }
+   ],
+   "current": {
+    "lat": 20.0,
+    "lng": 130.0,
+    "region": "Western Pacific",
     "status": "deployed"
    }
   },
@@ -560,12 +420,17 @@
      "as_of": "2026-06-29",
      "lat": 30.0,
      "lng": -120.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.0,
+     "lng": 70.0
     }
    ],
    "current": {
-    "lat": 30.0,
-    "lng": -120.0,
-    "region": "Pacific Ocean",
+    "lat": 10.0,
+    "lng": 70.0,
+    "region": "Indian Ocean",
     "status": "deployed"
    }
   },
@@ -631,6 +496,69 @@
    }
   },
   {
+   "name": "USS Tripoli (LHA-7)",
+   "photo_key": "ves-USS_Tripoli-51a490",
+   "type": "amphib",
+   "track": [
+    {
+     "as_of": "2026-04-13",
+     "lat": 29.0,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 20.0,
+     "lng": 60.0
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 25.0,
+     "lng": 60.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 29.5,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-05-18",
+     "lat": 34.0,
+     "lng": 18.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 33.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": 29.0,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 29.5,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 29.0,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 20.0,
+     "lng": 130.0
+    }
+   ],
+   "current": {
+    "lat": 20.0,
+    "lng": 130.0,
+    "region": "Western Pacific",
+    "status": "deployed"
+   }
+  },
+  {
    "name": "USS Essex (LHD-2)",
    "photo_key": "ves-USS_Essex-2a05cd",
    "type": "amphib",
@@ -659,12 +587,17 @@
      "as_of": "2026-06-29",
      "lat": 21.3,
      "lng": -157.9
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 20.0,
+     "lng": 130.0
     }
    ],
    "current": {
-    "lat": 21.3,
-    "lng": -157.9,
-    "region": "Pacific Ocean",
+    "lat": 20.0,
+    "lng": 130.0,
+    "region": "Western Pacific",
     "status": "deployed"
    }
   },
@@ -707,12 +640,17 @@
      "as_of": "2026-06-29",
      "lat": 29.0,
      "lng": 48.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.0,
+     "lng": 70.0
     }
    ],
    "current": {
-    "lat": 29.0,
-    "lng": 48.0,
-    "region": "Persian Gulf",
+    "lat": 10.0,
+    "lng": 70.0,
+    "region": "Indian Ocean",
     "status": "deployed"
    }
   },
@@ -804,6 +742,24 @@
    }
   },
   {
+   "name": "USS George H.W. Bush (CVN-77)",
+   "photo_key": "ves-USS_George_H.W._Bush-a57ac1",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-05-18",
+     "lat": 34.0,
+     "lng": 18.0
+    }
+   ],
+   "current": {
+    "lat": 34.0,
+    "lng": 18.0,
+    "region": "Mediterranean Sea",
+    "status": "deployed"
+   }
+  },
+  {
    "name": "USS George Washington (CVN-73)",
    "photo_key": "ves-USS_George_Washington-ffbde5",
    "type": "carrier",
@@ -853,11 +809,16 @@
      "as_of": "2026-06-29",
      "lat": 10.5,
      "lng": -66.5
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.5,
+     "lng": -66.9
     }
    ],
    "current": {
     "lat": 10.5,
-    "lng": -66.5,
+    "lng": -66.9,
     "region": "Caribbean Sea",
     "status": "deployed"
    }
@@ -876,12 +837,17 @@
      "as_of": "2026-06-29",
      "lat": 37.0,
      "lng": 15.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 51.3,
+     "lng": 3.2
     }
    ],
    "current": {
-    "lat": 37.0,
-    "lng": 15.0,
-    "region": "Mediterranean Sea",
+    "lat": 51.3,
+    "lng": 3.2,
+    "region": "North Sea",
     "status": "deployed"
    }
   },
@@ -900,6 +866,24 @@
     "lat": 34.0,
     "lng": -118.0,
     "region": "Pacific Ocean",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "Theodore Roosevelt CSG",
+   "photo_key": "ves-USS_Theodore_Roosevelt-440a3b",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-07-07",
+     "lat": 20.0,
+     "lng": 130.0
+    }
+   ],
+   "current": {
+    "lat": 20.0,
+    "lng": 130.0,
+    "region": "Western Pacific",
     "status": "deployed"
    }
   }
