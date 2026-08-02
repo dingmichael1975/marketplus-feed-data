@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-08-02T17:12:32+00:00",
- "count": 21,
+ "generated_at": "2026-08-02T21:08:08+00:00",
+ "count": 23,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 102,
+   "type": "Attack",
+   "severity": "high",
+   "date": "1 August 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 102-26 ATTACK\nIncident Date: 31 Jul 2026 Incident Time 2206UTC\nUKMTO has received a report of an incident 21NM northeast of Khasab, Oman.\nThe Master of a tanker reports seeing a large splash and explosion in close proximity to the vessel. No damage to the vessel has been reported at this time.\nAuthorities are investigating. Vessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
+  {
+   "number": 101,
+   "type": "Attack",
+   "severity": "high",
+   "date": "31 July 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "UKMTO WARNING 101-26 - ATTACK\nReport Date:31 Jul 2026\nReport Time: 2330UTC\nIssue Date: 01 Aug 2026\nSource Company Security\nOfficer\nUKMTO has received a report of an incident 11NM northeast off Lima, Oman.\nThe CSO of a tanker reports the vessel has been struck by an unknown projectile\nwhich has caused damage to the engine room. The tanker is not under command\nand the regional Coast Guard have been informed.\nThere are no reported casualties or environmental impact.\nAuthorities are investigating. Vessels are advised to transit with caution and report\nany suspicious activity to UKMTO."
+  },
   {
    "number": 98,
    "type": "Advisory",
