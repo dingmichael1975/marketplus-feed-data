@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-08-05T10:28:07+00:00",
+ "generated_at": "2026-08-12T09:04:18+00:00",
  "weeks": [
+  "2026-07-20",
   "2026-07-13",
   "2026-07-07",
   "2026-06-29",
@@ -11,108 +12,67 @@
   "2026-05-11",
   "2026-04-27",
   "2026-04-20",
-  "2026-04-13",
-  "2026-04-06"
+  "2026-04-13"
  ],
  "vessels": [
   {
-   "name": "Iwo Jima ARG",
+   "name": "USS Iwo Jima (LHD-7)",
    "photo_key": "ves-USS_Iwo_Jima-9e86df",
    "type": "amphib",
    "track": [
     {
-     "as_of": "2026-04-06",
+     "as_of": "2026-04-13",
+     "lat": 30.4,
+     "lng": -81.4
+    },
+    {
+     "as_of": "2026-05-18",
+     "lat": 18.5,
+     "lng": -66.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": 36.9,
+     "lng": -76.3
+    }
+   ],
+   "current": {
+    "lat": 36.9,
+    "lng": -76.3,
+    "region": "Norfolk, Va.",
+    "status": "homeport"
+   }
+  },
+  {
+   "name": "USS Kearsarge (LHD-3)",
+   "photo_key": "ves-USS_Kearsarge-d1a1a1",
+   "type": "amphib",
+   "track": [
+    {
+     "as_of": "2026-04-13",
      "lat": 30.4,
      "lng": -81.4
     },
     {
      "as_of": "2026-04-20",
-     "lat": 18.0,
-     "lng": -63.0
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": -12.0,
-     "lng": -60.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 18.5,
-     "lng": -70.0
-    }
-   ],
-   "current": {
-    "lat": 18.5,
-    "lng": -70.0,
-    "region": "Caribbean Sea",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "George H.W. Bush CSG",
-   "photo_key": "ves-USS_George_H.W._Bush-a57ac1",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-04-06",
-     "lat": 37.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 36.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 35.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 35.0,
-     "lng": 20.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 37.0,
-     "lng": 15.0
+     "lat": 29.7,
+     "lng": -95.4
     },
     {
      "as_of": "2026-05-26",
-     "lat": 35.0,
-     "lng": 10.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": 29.0,
-     "lng": 48.0
+     "lat": 40.0,
+     "lng": -70.0
     },
     {
      "as_of": "2026-06-22",
-     "lat": 37.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 37.0,
-     "lng": 15.0
-    },
-    {
-     "as_of": "2026-07-07",
-     "lat": 10.0,
-     "lng": 70.0
-    },
-    {
-     "as_of": "2026-07-13",
-     "lat": 25.0,
-     "lng": 60.0
+     "lat": 38.0,
+     "lng": -75.0
     }
    ],
    "current": {
-    "lat": 25.0,
-    "lng": 60.0,
-    "region": "Indian Ocean",
+    "lat": 38.0,
+    "lng": -75.0,
+    "region": "Atlantic Ocean",
     "status": "deployed"
    }
   },
@@ -121,11 +81,6 @@
    "photo_key": "ves-USS_Nimitz-f10671",
    "type": "carrier",
    "track": [
-    {
-     "as_of": "2026-04-06",
-     "lat": -3.0,
-     "lng": -81.0
-    },
     {
      "as_of": "2026-04-13",
      "lat": -5.0,
@@ -190,11 +145,6 @@
    "type": "carrier",
    "track": [
     {
-     "as_of": "2026-04-06",
-     "lat": 35.0,
-     "lng": 20.0
-    },
-    {
      "as_of": "2026-04-13",
      "lat": 36.0,
      "lng": 15.0
@@ -217,221 +167,6 @@
    ],
    "current": {
     "lat": 36.5,
-    "lng": -75.0,
-    "region": "Atlantic Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "Abraham Lincoln CSG USS Tripoli (LHA-7)",
-   "photo_key": "ves-Abraham_Lincoln_CSG_USS_Tripoli-151d13",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-04-06",
-     "lat": 25.0,
-     "lng": 55.0
-    }
-   ],
-   "current": {
-    "lat": 25.0,
-    "lng": 55.0,
-    "region": "Persian Gulf",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "George Washington CSG",
-   "photo_key": "ves-USS_George_Washington-ffbde5",
-   "type": "carrier",
-   "track": [
-    {
-     "as_of": "2026-04-06",
-     "lat": 35.4,
-     "lng": 139.6
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 35.4,
-     "lng": 139.6
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 35.5,
-     "lng": 139.5
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 35.0,
-     "lng": 139.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": 35.0,
-     "lng": 140.0
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 35.0,
-     "lng": 140.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": -8.0,
-     "lng": 157.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 25.0,
-     "lng": 135.0
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 35.0,
-     "lng": 140.0
-    },
-    {
-     "as_of": "2026-07-07",
-     "lat": 20.0,
-     "lng": 130.0
-    },
-    {
-     "as_of": "2026-07-13",
-     "lat": 30.0,
-     "lng": 135.0
-    }
-   ],
-   "current": {
-    "lat": 30.0,
-    "lng": 135.0,
-    "region": "Pacific Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "Boxer ARG",
-   "photo_key": "ves-USS_Boxer-43ea61",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-04-06",
-     "lat": 20.0,
-     "lng": 120.0
-    },
-    {
-     "as_of": "2026-04-13",
-     "lat": 20.0,
-     "lng": 150.0
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 35.5,
-     "lng": 139.5
-    },
-    {
-     "as_of": "2026-04-27",
-     "lat": 10.0,
-     "lng": 120.0
-    },
-    {
-     "as_of": "2026-05-11",
-     "lat": -10.0,
-     "lng": 150.0
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 1.3,
-     "lng": 103.8
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": -8.0,
-     "lng": 157.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 15.0,
-     "lng": 120.0
-    },
-    {
-     "as_of": "2026-06-29",
-     "lat": 30.0,
-     "lng": -120.0
-    },
-    {
-     "as_of": "2026-07-07",
-     "lat": 10.0,
-     "lng": 70.0
-    },
-    {
-     "as_of": "2026-07-13",
-     "lat": 25.0,
-     "lng": 60.0
-    }
-   ],
-   "current": {
-    "lat": 25.0,
-    "lng": 60.0,
-    "region": "Indian Ocean",
-    "status": "deployed"
-   }
-  },
-  {
-   "name": "USS Iwo Jima (LHD-7)",
-   "photo_key": "ves-USS_Iwo_Jima-9e86df",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-04-13",
-     "lat": 30.4,
-     "lng": -81.4
-    },
-    {
-     "as_of": "2026-05-18",
-     "lat": 18.5,
-     "lng": -66.0
-    },
-    {
-     "as_of": "2026-06-08",
-     "lat": 36.9,
-     "lng": -76.3
-    }
-   ],
-   "current": {
-    "lat": 36.9,
-    "lng": -76.3,
-    "region": "Norfolk, Va.",
-    "status": "homeport"
-   }
-  },
-  {
-   "name": "USS Kearsarge (LHD-3)",
-   "photo_key": "ves-USS_Kearsarge-d1a1a1",
-   "type": "amphib",
-   "track": [
-    {
-     "as_of": "2026-04-13",
-     "lat": 30.4,
-     "lng": -81.4
-    },
-    {
-     "as_of": "2026-04-20",
-     "lat": 29.7,
-     "lng": -95.4
-    },
-    {
-     "as_of": "2026-05-26",
-     "lat": 40.0,
-     "lng": -70.0
-    },
-    {
-     "as_of": "2026-06-22",
-     "lat": 38.0,
-     "lng": -75.0
-    }
-   ],
-   "current": {
-    "lat": 38.0,
     "lng": -75.0,
     "region": "Atlantic Ocean",
     "status": "deployed"
@@ -496,12 +231,221 @@
      "as_of": "2026-07-13",
      "lat": 30.0,
      "lng": 135.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 25.5,
+     "lng": 135.5
     }
    ],
    "current": {
-    "lat": 30.0,
+    "lat": 25.5,
+    "lng": 135.5,
+    "region": "Western Pacific",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "George H.W. Bush CSG",
+   "photo_key": "ves-USS_George_H.W._Bush-a57ac1",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-04-13",
+     "lat": 36.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 35.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 35.0,
+     "lng": 20.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 37.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 35.0,
+     "lng": 10.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": 29.0,
+     "lng": 48.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 37.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 37.0,
+     "lng": 15.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.0,
+     "lng": 70.0
+    },
+    {
+     "as_of": "2026-07-13",
+     "lat": 25.0,
+     "lng": 60.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 37.0,
+     "lng": 15.0
+    }
+   ],
+   "current": {
+    "lat": 37.0,
+    "lng": 15.0,
+    "region": "Mediterranean Sea",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "George Washington CSG",
+   "photo_key": "ves-USS_George_Washington-ffbde5",
+   "type": "carrier",
+   "track": [
+    {
+     "as_of": "2026-04-13",
+     "lat": 35.4,
+     "lng": 139.6
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 35.5,
+     "lng": 139.5
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 35.0,
+     "lng": 139.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": -8.0,
+     "lng": 157.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 25.0,
+     "lng": 135.0
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 35.0,
+     "lng": 140.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 20.0,
+     "lng": 130.0
+    },
+    {
+     "as_of": "2026-07-13",
+     "lat": 30.0,
+     "lng": 135.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 35.0,
+     "lng": 140.0
+    }
+   ],
+   "current": {
+    "lat": 35.0,
+    "lng": 140.0,
+    "region": "Western Pacific",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "Boxer ARG",
+   "photo_key": "ves-USS_Boxer-43ea61",
+   "type": "amphib",
+   "track": [
+    {
+     "as_of": "2026-04-13",
+     "lat": 20.0,
+     "lng": 150.0
+    },
+    {
+     "as_of": "2026-04-20",
+     "lat": 35.5,
+     "lng": 139.5
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": 10.0,
+     "lng": 120.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": -10.0,
+     "lng": 150.0
+    },
+    {
+     "as_of": "2026-05-26",
+     "lat": 1.3,
+     "lng": 103.8
+    },
+    {
+     "as_of": "2026-06-08",
+     "lat": -8.0,
+     "lng": 157.0
+    },
+    {
+     "as_of": "2026-06-22",
+     "lat": 15.0,
+     "lng": 120.0
+    },
+    {
+     "as_of": "2026-06-29",
+     "lat": 30.0,
+     "lng": -120.0
+    },
+    {
+     "as_of": "2026-07-07",
+     "lat": 10.0,
+     "lng": 70.0
+    },
+    {
+     "as_of": "2026-07-13",
+     "lat": 25.0,
+     "lng": 60.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 25.0,
+     "lng": 135.0
+    }
+   ],
+   "current": {
+    "lat": 25.0,
     "lng": 135.0,
-    "region": "Pacific Ocean",
+    "region": "Western Pacific",
     "status": "deployed"
    }
   },
@@ -577,12 +521,45 @@
      "as_of": "2026-07-13",
      "lat": 30.0,
      "lng": 135.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 20.5,
+     "lng": 130.5
     }
    ],
    "current": {
-    "lat": 30.0,
-    "lng": 135.0,
-    "region": "Pacific Ocean",
+    "lat": 20.5,
+    "lng": 130.5,
+    "region": "Western Pacific",
+    "status": "deployed"
+   }
+  },
+  {
+   "name": "Iwo Jima ARG",
+   "photo_key": "ves-USS_Iwo_Jima-9e86df",
+   "type": "amphib",
+   "track": [
+    {
+     "as_of": "2026-04-20",
+     "lat": 18.0,
+     "lng": -63.0
+    },
+    {
+     "as_of": "2026-04-27",
+     "lat": -12.0,
+     "lng": -60.0
+    },
+    {
+     "as_of": "2026-05-11",
+     "lat": 18.5,
+     "lng": -70.0
+    }
+   ],
+   "current": {
+    "lat": 18.5,
+    "lng": -70.0,
+    "region": "Caribbean Sea",
     "status": "deployed"
    }
   },
@@ -635,12 +612,17 @@
      "as_of": "2026-07-13",
      "lat": 25.0,
      "lng": 60.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 30.0,
+     "lng": 50.0
     }
    ],
    "current": {
-    "lat": 25.0,
-    "lng": 60.0,
-    "region": "Indian Ocean",
+    "lat": 30.0,
+    "lng": 50.0,
+    "region": "Persian Gulf",
     "status": "deployed"
    }
   },
@@ -663,12 +645,17 @@
      "as_of": "2026-05-26",
      "lat": 33.0,
      "lng": -118.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 32.5,
+     "lng": -117.2
     }
    ],
    "current": {
-    "lat": 33.0,
-    "lng": -118.0,
-    "region": "Pacific Ocean",
+    "lat": 32.5,
+    "lng": -117.2,
+    "region": "Eastern Pacific",
     "status": "deployed"
    }
   },
@@ -888,12 +875,17 @@
      "as_of": "2026-07-13",
      "lat": 30.0,
      "lng": 135.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 20.0,
+     "lng": 130.0
     }
    ],
    "current": {
-    "lat": 30.0,
-    "lng": 135.0,
-    "region": "Pacific Ocean",
+    "lat": 20.0,
+    "lng": 130.0,
+    "region": "Western Pacific",
     "status": "deployed"
    }
   },
@@ -906,11 +898,16 @@
      "as_of": "2026-07-13",
      "lat": 10.5,
      "lng": -64.0
+    },
+    {
+     "as_of": "2026-07-20",
+     "lat": 12.5,
+     "lng": -68.5
     }
    ],
    "current": {
-    "lat": 10.5,
-    "lng": -64.0,
+    "lat": 12.5,
+    "lng": -68.5,
     "region": "Caribbean Sea",
     "status": "deployed"
    }
