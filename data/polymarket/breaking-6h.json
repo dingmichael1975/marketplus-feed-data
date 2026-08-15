@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-15T04:38:57+00:00",
- "count": 7,
+ "generated_at": "2026-08-15T05:32:12+00:00",
+ "count": 6,
  "markets": [
   {
    "id": "3565496",
@@ -8,8 +8,8 @@
    "slug": "bitcoin-up-or-down-on-august-15-2026",
    "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-15-2026",
    "yes_price": 0.755,
-   "volume_24h": 161095.75747599918,
-   "volume": 161222.8555070001,
+   "volume_24h": 166407.47583399914,
+   "volume": 166542.613079,
    "end_date": "2026-08-15T16:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
@@ -23,16 +23,16 @@
    "question": "Will Bitcoin dip to $62,500 in August?",
    "slug": "will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
    "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-   "yes_price": 0.8405,
-   "volume_24h": 68441.83911400002,
-   "volume": 393235.46244600014,
+   "yes_price": 0.842,
+   "volume_24h": 68296.208268,
+   "volume": 393235.46244599996,
    "end_date": "2026-09-01T04:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
    "category": "",
    "yes_price_6h_ago": 0.899,
-   "delta_6h": -0.0585
+   "delta_6h": -0.057
   },
   {
    "id": "2663611",
@@ -40,8 +40,8 @@
    "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
    "url": "https://polymarket.com/event/us-iran-60-day-negotiation-period-extended-20260624044855448",
    "yes_price": 0.125,
-   "volume_24h": 184622.13315900005,
-   "volume": 1761868.774831004,
+   "volume_24h": 185140.81069400004,
+   "volume": 1762549.178674003,
    "end_date": "2026-08-20T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
@@ -56,8 +56,8 @@
    "slug": "will-bitcoin-dip-to-60k-in-august-2026",
    "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
    "yes_price": 0.395,
-   "volume_24h": 93981.80173299997,
-   "volume": 404132.4675169998,
+   "volume_24h": 91655.12951199998,
+   "volume": 404149.97751699993,
    "end_date": "2026-09-01T04:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
@@ -71,16 +71,16 @@
    "question": "Fed rate hike in 2026?",
    "slug": "fed-rate-hike-in-2026",
    "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-   "yes_price": 0.455,
-   "volume_24h": 86937.00665600001,
-   "volume": 7503869.480051001,
+   "yes_price": 0.445,
+   "volume_24h": 88419.238511,
+   "volume": 7506588.710050998,
    "end_date": "2026-12-09T00:00:00Z",
    "lat": 38.9072,
    "lng": -77.0369,
    "region": "Federal Reserve",
    "category": "",
    "yes_price_6h_ago": 0.475,
-   "delta_6h": -0.02
+   "delta_6h": -0.03
   },
   {
    "id": "3257348",
@@ -88,8 +88,8 @@
    "slug": "will-bitcoin-reach-67pt5k-in-august-2026",
    "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
    "yes_price": 0.235,
-   "volume_24h": 57052.53181400001,
-   "volume": 458808.45446400007,
+   "volume_24h": 56559.648822,
+   "volume": 458823.571472,
    "end_date": "2026-09-01T04:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
@@ -97,22 +97,6 @@
    "category": "",
    "yes_price_6h_ago": 0.22,
    "delta_6h": 0.015
-  },
-  {
-   "id": "2910438",
-   "question": "US announces end of Iranian blockade by August 31, 2026?",
-   "slug": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
-   "yes_price": 0.185,
-   "volume_24h": 126714.20939400002,
-   "volume": 1523392.7087219998,
-   "end_date": "2026-08-31T23:59:00Z",
-   "lat": 32.4279,
-   "lng": 53.688,
-   "region": "Iran",
-   "category": "",
-   "yes_price_6h_ago": 0.195,
-   "delta_6h": -0.01
   }
  ]
 }
