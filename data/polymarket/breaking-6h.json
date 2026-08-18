@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T18:49:50+00:00",
- "count": 4,
+ "generated_at": "2026-08-18T19:33:13+00:00",
+ "count": 3,
  "markets": [
   {
    "id": "3128887",
@@ -8,15 +8,15 @@
    "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "yes_price": 0.345,
-   "volume_24h": 85534.73726700002,
-   "volume": 883110.7314419992,
+   "volume_24h": 97117.28548999998,
+   "volume": 895909.4301259995,
    "end_date": "2026-09-30T23:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
    "region": "Iran",
    "category": "",
-   "yes_price_6h_ago": 0.305,
-   "delta_6h": 0.04
+   "yes_price_6h_ago": 0.315,
+   "delta_6h": 0.03
   },
   {
    "id": "1130012",
@@ -24,8 +24,8 @@
    "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "url": "https://polymarket.com/event/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
    "yes_price": 0.735,
-   "volume_24h": 469842.5326869999,
-   "volume": 7373133.266622001,
+   "volume_24h": 469810.974717,
+   "volume": 7373195.992026,
    "end_date": "2026-09-30T00:00:00Z",
    "lat": 61.524,
    "lng": 105.3188,
@@ -35,36 +35,20 @@
    "delta_6h": 0.02
   },
   {
-   "id": "2176270",
-   "question": "Strait of Hormuz traffic returns to normal by December 31?",
-   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-   "yes_price": 0.365,
-   "volume_24h": 269355.71137400006,
-   "volume": 8537739.749382997,
-   "end_date": "2026-12-31T00:00:00Z",
-   "lat": 26.5667,
-   "lng": 56.25,
-   "region": "Strait of Hormuz",
+   "id": "3257346",
+   "question": "Will Bitcoin reach $70,000 in August?",
+   "slug": "will-bitcoin-reach-70k-in-august-2026",
+   "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-august-2026",
+   "yes_price": 0.115,
+   "volume_24h": 62086.93105799999,
+   "volume": 418722.1515009999,
+   "end_date": "2026-09-01T04:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
    "category": "",
-   "yes_price_6h_ago": 0.355,
-   "delta_6h": 0.01
-  },
-  {
-   "id": "908713",
-   "question": "Fed rate hike in 2026?",
-   "slug": "fed-rate-hike-in-2026",
-   "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-   "yes_price": 0.495,
-   "volume_24h": 64596.44912700001,
-   "volume": 7625899.016220001,
-   "end_date": "2026-12-09T00:00:00Z",
-   "lat": 38.9072,
-   "lng": -77.0369,
-   "region": "Federal Reserve",
-   "category": "",
-   "yes_price_6h_ago": 0.485,
-   "delta_6h": 0.01
+   "yes_price_6h_ago": 0.135,
+   "delta_6h": -0.02
   }
  ]
 }
