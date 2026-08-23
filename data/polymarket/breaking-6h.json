@@ -1,15 +1,31 @@
 {
- "generated_at": "2026-08-23T19:27:34+00:00",
- "count": 3,
+ "generated_at": "2026-08-23T20:32:10+00:00",
+ "count": 4,
  "markets": [
+  {
+   "id": "3257338",
+   "question": "Will Bitcoin reach $80,000 in August?",
+   "slug": "will-bitcoin-reach-80k-in-august-2026",
+   "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
+   "yes_price": 0.627,
+   "volume_24h": 108746.77931,
+   "volume": 1157189.1441159993,
+   "end_date": "2026-09-01T04:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.598,
+   "delta_6h": 0.029
+  },
   {
    "id": "3128887",
    "question": "US announces end of Iranian blockade by September 30, 2026?",
    "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "yes_price": 0.325,
-   "volume_24h": 115880.46348600004,
-   "volume": 1335969.144173999,
+   "volume_24h": 113611.05348600003,
+   "volume": 1336106.7441739994,
    "end_date": "2026-10-01T03:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
@@ -19,29 +35,13 @@
    "delta_6h": -0.02
   },
   {
-   "id": "3257338",
-   "question": "Will Bitcoin reach $80,000 in August?",
-   "slug": "will-bitcoin-reach-80k-in-august-2026",
-   "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
-   "yes_price": 0.6235,
-   "volume_24h": 109724.43549699998,
-   "volume": 1156030.1148579994,
-   "end_date": "2026-09-01T04:00:00Z",
-   "lat": 37.7749,
-   "lng": -122.4194,
-   "region": "Bitcoin (SF proxy)",
-   "category": "",
-   "yes_price_6h_ago": 0.609,
-   "delta_6h": 0.0145
-  },
-  {
    "id": "701502",
    "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
    "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
    "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
    "yes_price": 0.075,
-   "volume_24h": 192957.01780499998,
-   "volume": 5332995.4280590005,
+   "volume_24h": 197878.69404,
+   "volume": 5338000.467626,
    "end_date": "2027-01-01T05:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
@@ -49,6 +49,22 @@
    "category": "",
    "yes_price_6h_ago": 0.085,
    "delta_6h": -0.01
+  },
+  {
+   "id": "2176270",
+   "question": "Strait of Hormuz traffic returns to normal by December 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "yes_price": 0.325,
+   "volume_24h": 105036.11606100001,
+   "volume": 8996869.536580997,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.315,
+   "delta_6h": 0.01
   }
  ]
 }
