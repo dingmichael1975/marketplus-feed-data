@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T18:39:54+00:00",
+ "generated_at": "2026-08-23T19:27:34+00:00",
  "count": 3,
  "markets": [
   {
@@ -8,8 +8,8 @@
    "slug": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
    "yes_price": 0.325,
-   "volume_24h": 116433.91054800004,
-   "volume": 1335411.091236,
+   "volume_24h": 115880.46348600004,
+   "volume": 1335969.144173999,
    "end_date": "2026-10-01T03:59:00Z",
    "lat": 32.4279,
    "lng": 53.688,
@@ -23,16 +23,16 @@
    "question": "Will Bitcoin reach $80,000 in August?",
    "slug": "will-bitcoin-reach-80k-in-august-2026",
    "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
-   "yes_price": 0.6265,
-   "volume_24h": 109756.93257199999,
-   "volume": 1155976.900900999,
+   "yes_price": 0.6235,
+   "volume_24h": 109724.43549699998,
+   "volume": 1156030.1148579994,
    "end_date": "2026-09-01T04:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
    "category": "",
    "yes_price_6h_ago": 0.609,
-   "delta_6h": 0.0175
+   "delta_6h": 0.0145
   },
   {
    "id": "701502",
@@ -41,7 +41,7 @@
    "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
    "yes_price": 0.075,
    "volume_24h": 192957.01780499998,
-   "volume": 5332995.428059002,
+   "volume": 5332995.4280590005,
    "end_date": "2027-01-01T05:00:00Z",
    "lat": 37.7749,
    "lng": -122.4194,
