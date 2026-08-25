@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-08-25T16:52:24+00:00",
- "count": 39,
+ "generated_at": "2026-08-25T20:42:47+00:00",
+ "count": 41,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 120,
+   "type": "Attack",
+   "severity": "high",
+   "date": "24 August 2026",
+   "region": "Oman",
+   "lat": 21.4735,
+   "lng": 55.9754,
+   "body": "WARNING 120-26 UKMTO has received a report of an incident 9NM northeast of Ash Shishah, Oman.\nThe Master of an oil tanker reports the vessel has been struck by an unknown projectile causing damage to the engine room and disabling the vessel. Crew are reported safe. Environmental impact is unknown at time of report.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO. Authorities are investigating."
+  },
+  {
+   "number": 119,
+   "type": "Attack",
+   "severity": "high",
+   "date": "24 August 2026",
+   "region": "Saudi Arabia",
+   "lat": 23.8859,
+   "lng": 45.0792,
+   "body": "WARNING ATTACK 119\nUKMTO has received a report of an incident 63NM west of Yanbu, Saudi Arabia.\nThe Company Security Officer reported a tanker has been struck by unknown\nprojectile causing a fire to the vessel on the main deck.\nAll crew are safe and accounted for and no environmental impact has been reported.\nVessels are advised to transit with caution and report any suspicious activity to\nUKMTO."
+  },
   {
    "number": 118,
    "type": "Hijack",
