@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-26T07:01:03+00:00",
- "count": 60,
+ "generated_at": "2026-08-26T07:52:36+00:00",
+ "count": 64,
  "markets": [
   {
    "id": "2774057",
@@ -840,6 +840,62 @@
    "lat": 37.7749,
    "lng": -122.4194,
    "region": "Bitcoin (SF proxy)",
+   "category": ""
+  },
+  {
+   "id": "1130014",
+   "question": "Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?",
+   "slug": "will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+   "url": "https://polymarket.com/event/will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+   "yes_price": 0.0015,
+   "volume_24h": 52791.72,
+   "volume": 1763484.584938001,
+   "end_date": "2026-09-30T00:00:00Z",
+   "lat": 61.524,
+   "lng": 105.3188,
+   "region": "Russia",
+   "category": ""
+  },
+  {
+   "id": "3746073",
+   "question": "Will Tropical Storm Saudel make landfall in Japan?",
+   "slug": "will-tropical-storm-saudel-make-landfall-in-japan-1787177922936",
+   "url": "https://polymarket.com/event/will-tropical-storm-saudel-make-landfall-in-japan-1787177922936",
+   "yes_price": 0.135,
+   "volume_24h": 52469.935770000004,
+   "volume": 55550.11744800001,
+   "end_date": "2026-09-01T03:59:00Z",
+   "lat": 36.2048,
+   "lng": 138.2529,
+   "region": "Japan",
+   "category": ""
+  },
+  {
+   "id": "2646914",
+   "question": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?",
+   "slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-september-30-2026-20260622185050763",
+   "url": "https://polymarket.com/event/will-no-qualifying-diplomatic-us-iran-meeting-occur-by-september-30-2026-20260622185050763",
+   "yes_price": 0.7455,
+   "volume_24h": 51755.872492,
+   "volume": 1006194.7759829996,
+   "end_date": "2026-09-30T23:59:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": ""
+  },
+  {
+   "id": "560317",
+   "question": "Putin out as President of Russia by December 31, 2026?",
+   "slug": "putin-out-before-2027-346",
+   "url": "https://polymarket.com/event/putin-out-before-2027-346",
+   "yes_price": 0.075,
+   "volume_24h": 50510.981717,
+   "volume": 19700522.23341299,
+   "end_date": "2027-01-01T04:59:00Z",
+   "lat": 55.7558,
+   "lng": 37.6173,
+   "region": "Russia",
    "category": ""
   }
  ]
