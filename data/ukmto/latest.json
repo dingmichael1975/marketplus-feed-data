@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-08-27T09:40:23+00:00",
- "count": 41,
+ "generated_at": "2026-08-27T22:13:34+00:00",
+ "count": 42,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 121,
+   "type": "Attack",
+   "severity": "high",
+   "date": "26 August 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO ATTACK 121\nUKMTO has received a report of an incident in the Strait of Hormuz.\nLocal authorities have reported a tanker has been hit by an unknown projectile\ncausing fire to the vessel which has since been extinguished.\nAll crew are reported as safe and accounted for and there has been no report of\nenvironmental impact.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to\nUKMTO."
+  },
   {
    "number": 120,
    "type": "Attack",
