@@ -1,54 +1,5 @@
 {
- "generated_at": "2026-08-30T17:19:40+00:00",
- "count": 3,
- "markets": [
-  {
-   "id": "3257336",
-   "question": "Will Bitcoin reach $82,500 in August?",
-   "slug": "will-bitcoin-reach-82pt5k-in-august-2026",
-   "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-   "yes_price": 0.099,
-   "volume_24h": 93206.696572,
-   "volume": 1729629.8568899992,
-   "end_date": "2026-09-01T04:00:00Z",
-   "lat": 37.7749,
-   "lng": -122.4194,
-   "region": "Bitcoin (SF proxy)",
-   "category": "",
-   "yes_price_6h_ago": 0.056,
-   "delta_6h": 0.043
-  },
-  {
-   "id": "2252244",
-   "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-   "yes_price": 0.505,
-   "volume_24h": 586256.3734150004,
-   "volume": 15484490.678354012,
-   "end_date": "2026-09-16T00:00:00Z",
-   "lat": 38.9072,
-   "lng": -77.0369,
-   "region": "Federal Reserve",
-   "category": "",
-   "yes_price_6h_ago": 0.515,
-   "delta_6h": -0.01
-  },
-  {
-   "id": "1130012",
-   "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-   "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-   "url": "https://polymarket.com/event/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
-   "yes_price": 0.725,
-   "volume_24h": 111223.09320800003,
-   "volume": 8411491.771051995,
-   "end_date": "2026-09-30T00:00:00Z",
-   "lat": 61.524,
-   "lng": 105.3188,
-   "region": "Russia",
-   "category": "",
-   "yes_price_6h_ago": 0.715,
-   "delta_6h": 0.01
-  }
- ]
+ "generated_at": "2026-08-30T20:56:25+00:00",
+ "count": 0,
+ "markets": []
 }
