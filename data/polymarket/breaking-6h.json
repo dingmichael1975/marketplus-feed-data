@@ -1,5 +1,70 @@
 {
- "generated_at": "2026-08-29T21:39:01+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-08-30T00:05:56+00:00",
+ "count": 4,
+ "markets": [
+  {
+   "id": "3810130",
+   "question": "Will Ethereum dip to $2,400 in August?",
+   "slug": "will-ethereum-dip-to-2400-in-august-2026-from-august-23",
+   "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
+   "yes_price": 0.315,
+   "volume_24h": 175726.99970900005,
+   "volume": 302156.41644900007,
+   "end_date": "2026-09-01T04:00:00Z",
+   "lat": 40.7128,
+   "lng": -74.006,
+   "region": "Ethereum (NYC proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.37,
+   "delta_6h": -0.055
+  },
+  {
+   "id": "2252245",
+   "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+   "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "yes_price": 0.465,
+   "volume_24h": 484142.05135800014,
+   "volume": 13346860.024409994,
+   "end_date": "2026-09-16T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.435,
+   "delta_6h": 0.03
+  },
+  {
+   "id": "2252244",
+   "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "yes_price": 0.535,
+   "volume_24h": 898111.6727529971,
+   "volume": 14990063.52073501,
+   "end_date": "2026-09-16T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.545,
+   "delta_6h": -0.01
+  },
+  {
+   "id": "2176270",
+   "question": "Strait of Hormuz traffic returns to normal by December 31?",
+   "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+   "yes_price": 0.305,
+   "volume_24h": 63651.02441899998,
+   "volume": 9948438.260815999,
+   "end_date": "2026-12-31T00:00:00Z",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "region": "Strait of Hormuz",
+   "category": "",
+   "yes_price_6h_ago": 0.315,
+   "delta_6h": -0.01
+  }
+ ]
 }
