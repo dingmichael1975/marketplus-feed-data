@@ -1,8 +1,38 @@
 {
- "generated_at": "2026-08-31T21:28:11+00:00",
- "count": 42,
+ "generated_at": "2026-09-01T05:02:16+00:00",
+ "count": 45,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 124,
+   "type": "Attack",
+   "severity": "high",
+   "date": "31 August 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO WARNING 124-26\nIncident Date: 31 Aug 26 Incident Time: 2000UTC\nUKMTO has received a report of an incident 17NM east of Khasab, Oman.\nA tanker has reported being struck by 3 unknown projectiles whilst completing an outbound transit of the Strait of Hormuz.\nNo casualties or environmental impact has been reported.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO."
+  },
+  {
+   "number": 123,
+   "type": "Advisory",
+   "severity": "low",
+   "date": "31 August 2026",
+   "region": "Indian Ocean",
+   "lat": 0.0,
+   "lng": 73.0,
+   "body": "UKMTO ADVISORY 123-26\nIncident Date: 30 Aug 26 Incident Time: 1624UTC\nUKMTO have received a report of an incident involving a tanker and military forces in the Indian Ocean.\nVessels are advised to consider the latest maritime security information and maintain awareness of the evolving operational environment. Authorities are aware and relevant investigations remain ongoing."
+  },
+  {
+   "number": 122,
+   "type": "Attack",
+   "severity": "high",
+   "date": "29 August 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO 122-26 - ATTACK\nIncident Date: 29 Aug 2026 Incident Time: 2053UTC\nUKMTO has received a time-late report of an incident 12NM north of Khasab, Oman.\nA tanker has been struck by an unknown projectile whilst transiting inbound in the\nStrait of Hormuz.\nNo casualties or environmental impact are reported at this time."
+  },
   {
    "number": 121,
    "type": "Attack",
