@@ -1,8 +1,18 @@
 {
- "generated_at": "2026-09-02T22:36:30+00:00",
- "count": 45,
+ "generated_at": "2026-09-03T04:18:49+00:00",
+ "count": 46,
  "source_url": "https://www.ukmto.org/recent-incidents",
  "incidents": [
+  {
+   "number": 126,
+   "type": "Attack",
+   "severity": "high",
+   "date": "2 September 2026",
+   "region": "Strait Of Hormuz",
+   "lat": 26.5667,
+   "lng": 56.25,
+   "body": "UKMTO has received a time-late report of an incident in the Strait of Hormuz.\nUKMTO has received a verified report that a tanker was involved in a security incident resulting in two casualties. There is no report of environmental impact at this time.\nAuthorities are investigating.\nVessels are advised to transit with caution and report any suspicious activity to UKMTO"
+  },
   {
    "number": 124,
    "type": "Attack",
