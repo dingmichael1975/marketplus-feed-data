@@ -1,5 +1,70 @@
 {
- "generated_at": "2026-09-02T21:43:51+00:00",
- "count": 0,
- "markets": []
+ "generated_at": "2026-09-03T00:01:09+00:00",
+ "count": 4,
+ "markets": [
+  {
+   "id": "2252245",
+   "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+   "slug": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+   "yes_price": 0.535,
+   "volume_24h": 695511.5527419995,
+   "volume": 16276690.431342011,
+   "end_date": "2026-09-16T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.565,
+   "delta_6h": -0.03
+  },
+  {
+   "id": "2252244",
+   "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+   "yes_price": 0.445,
+   "volume_24h": 860632.2724790013,
+   "volume": 19497333.271807984,
+   "end_date": "2026-09-16T00:00:00Z",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "region": "Federal Reserve",
+   "category": "",
+   "yes_price_6h_ago": 0.425,
+   "delta_6h": 0.02
+  },
+  {
+   "id": "3399458",
+   "question": "Israel x Iran ceasefire continues through September 30?",
+   "slug": "israel-x-iran-ceasefire-continues-through-september-30",
+   "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-september-30",
+   "yes_price": 0.845,
+   "volume_24h": 84775.799159,
+   "volume": 887008.0332069998,
+   "end_date": "2026-09-30T20:29:00Z",
+   "lat": 32.4279,
+   "lng": 53.688,
+   "region": "Iran",
+   "category": "",
+   "yes_price_6h_ago": 0.825,
+   "delta_6h": 0.02
+  },
+  {
+   "id": "701502",
+   "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+   "slug": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+   "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+   "yes_price": 0.07,
+   "volume_24h": 246236.492795,
+   "volume": 6239097.890421001,
+   "end_date": "2027-01-01T05:00:00Z",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "region": "Bitcoin (SF proxy)",
+   "category": "",
+   "yes_price_6h_ago": 0.085,
+   "delta_6h": -0.015
+  }
+ ]
 }
